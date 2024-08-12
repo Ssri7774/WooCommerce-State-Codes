@@ -1,0 +1,1867 @@
+State_Code,State,Country_With_Code,Country_Code
+AL-01,Berat,Albanian (AL) states,AL
+AL-02,Durrës,Albanian (AL) states,AL
+AL-03,Elbasan,Albanian (AL) states,AL
+AL-04,Fier,Albanian (AL) states,AL
+AL-05,Gjirokastër,Albanian (AL) states,AL
+AL-06,Korçë,Albanian (AL) states,AL
+AL-07,Kukës,Albanian (AL) states,AL
+AL-08,Lezhë,Albanian (AL) states,AL
+AL-09,Dibër,Albanian (AL) states,AL
+AL-10,Shkodër,Albanian (AL) states,AL
+AL-11,Tirana,Albanian (AL) states,AL
+AL-12,Vlorë,Albanian (AL) states,AL
+DZ-01,Adrar,Algerian (DZ) states,DZ
+DZ-02,Chlef,Algerian (DZ) states,DZ
+DZ-03,Laghouat,Algerian (DZ) states,DZ
+DZ-04,Oum El Bouaghi,Algerian (DZ) states,DZ
+DZ-05,Batna,Algerian (DZ) states,DZ
+DZ-06,Béjaïa,Algerian (DZ) states,DZ
+DZ-07,Biskra,Algerian (DZ) states,DZ
+DZ-08,Béchar,Algerian (DZ) states,DZ
+DZ-09,Blida,Algerian (DZ) states,DZ
+DZ-10,Bouira,Algerian (DZ) states,DZ
+DZ-11,Tamanghasset,Algerian (DZ) states,DZ
+DZ-12,Tébessa,Algerian (DZ) states,DZ
+DZ-13,Tlemcen,Algerian (DZ) states,DZ
+DZ-14,Tiaret,Algerian (DZ) states,DZ
+DZ-15,Tizi Ouzou,Algerian (DZ) states,DZ
+DZ-16,Algiers,Algerian (DZ) states,DZ
+DZ-17,Djelfa,Algerian (DZ) states,DZ
+DZ-18,Jijel,Algerian (DZ) states,DZ
+DZ-19,Sétif,Algerian (DZ) states,DZ
+DZ-20,Saïda,Algerian (DZ) states,DZ
+DZ-21,Skikda,Algerian (DZ) states,DZ
+DZ-22,Sidi Bel Abbès,Algerian (DZ) states,DZ
+DZ-23,Annaba,Algerian (DZ) states,DZ
+DZ-24,Guelma,Algerian (DZ) states,DZ
+DZ-25,Constantine,Algerian (DZ) states,DZ
+DZ-26,Médéa,Algerian (DZ) states,DZ
+DZ-27,Mostaganem,Algerian (DZ) states,DZ
+DZ-28,M’Sila,Algerian (DZ) states,DZ
+DZ-29,Mascara,Algerian (DZ) states,DZ
+DZ-30,Ouargla,Algerian (DZ) states,DZ
+DZ-31,Oran,Algerian (DZ) states,DZ
+DZ-32,El Bayadh,Algerian (DZ) states,DZ
+DZ-33,Illizi,Algerian (DZ) states,DZ
+DZ-34,Bordj Bou Arréridj,Algerian (DZ) states,DZ
+DZ-35,Boumerdès,Algerian (DZ) states,DZ
+DZ-36,El Tarf,Algerian (DZ) states,DZ
+DZ-37,Tindouf,Algerian (DZ) states,DZ
+DZ-38,Tissemsilt,Algerian (DZ) states,DZ
+DZ-39,El Oued,Algerian (DZ) states,DZ
+DZ-40,Khenchela,Algerian (DZ) states,DZ
+DZ-41,Souk Ahras,Algerian (DZ) states,DZ
+DZ-42,Tipasa,Algerian (DZ) states,DZ
+DZ-43,Mila,Algerian (DZ) states,DZ
+DZ-44,Aïn Defla,Algerian (DZ) states,DZ
+DZ-45,Naama,Algerian (DZ) states,DZ
+DZ-46,Aïn Témouchent,Algerian (DZ) states,DZ
+DZ-47,Ghardaïa,Algerian (DZ) states,DZ
+DZ-48,Relizane,Algerian (DZ) states,DZ
+BGO,Bengo,Angolan (AO) states,AO
+BIE,Bié,Angolan (AO) states,AO
+BLU,Benguela,Angolan (AO) states,AO
+CAB,Cabinda,Angolan (AO) states,AO
+CCU,Kuando Kubango,Angolan (AO) states,AO
+CNN,Cunene,Angolan (AO) states,AO
+CNO,Kwanza-Norte,Angolan (AO) states,AO
+CUS,Kwanza-Sul,Angolan (AO) states,AO
+HUA,Huambo,Angolan (AO) states,AO
+HUI,Huíla,Angolan (AO) states,AO
+LNO,Lunda-Norte,Angolan (AO) states,AO
+LSU,Lunda-Sul,Angolan (AO) states,AO
+LUA,Luanda,Angolan (AO) states,AO
+MAL,Malanje,Angolan (AO) states,AO
+MOX,Moxico,Angolan (AO) states,AO
+NAM,Namibe,Angolan (AO) states,AO
+UIG,Uíge,Angolan (AO) states,AO
+ZAI,Zaire,Angolan (AO) states,AO
+A,Salta,Argentinian (AR) provinces,AR
+B,Buenos Aires,Argentinian (AR) provinces,AR
+C,Ciudad Autónoma de Buenos Aires,Argentinian (AR) provinces,AR
+D,San Luis,Argentinian (AR) provinces,AR
+E,Entre Ríos,Argentinian (AR) provinces,AR
+F,La Rioja,Argentinian (AR) provinces,AR
+G,Santiago del Estero,Argentinian (AR) provinces,AR
+H,Chaco,Argentinian (AR) provinces,AR
+J,San Juan,Argentinian (AR) provinces,AR
+K,Catamarca,Argentinian (AR) provinces,AR
+L,La Pampa,Argentinian (AR) provinces,AR
+M,Mendoza,Argentinian (AR) provinces,AR
+N,Misiones,Argentinian (AR) provinces,AR
+P,Formosa,Argentinian (AR) provinces,AR
+Q,Neuquén,Argentinian (AR) provinces,AR
+R,Río Negro,Argentinian (AR) provinces,AR
+S,Santa Fe,Argentinian (AR) provinces,AR
+T,Tucumán,Argentinian (AR) provinces,AR
+U,Chubut,Argentinian (AR) provinces,AR
+V,Tierra del Fuego,Argentinian (AR) provinces,AR
+W,Corrientes,Argentinian (AR) provinces,AR
+X,Córdoba,Argentinian (AR) provinces,AR
+Y,Jujuy,Argentinian (AR) provinces,AR
+Z,Santa Cruz,Argentinian (AR) provinces,AR
+ACT,Australian Capital Territory,Australian (AU) states,AU
+NSW,New South Wales,Australian (AU) states,AU
+NT,Northern Territory,Australian (AU) states,AU
+QLD,Queensland,Australian (AU) states,AU
+SA,South Australia,Australian (AU) states,AU
+TAS,Tasmania,Australian (AU) states,AU
+VIC,Victoria,Australian (AU) states,AU
+WA,Western Australia,Australian (AU) states,AU
+BD-01,Bandarban,Bangladeshi (BD) districts,BD
+BD-02,Barguna,Bangladeshi (BD) districts,BD
+BD-03,Bogura,Bangladeshi (BD) districts,BD
+BD-04,Brahmanbaria,Bangladeshi (BD) districts,BD
+BD-05,Bagerhat,Bangladeshi (BD) districts,BD
+BD-06,Barishal,Bangladeshi (BD) districts,BD
+BD-07,Bhola,Bangladeshi (BD) districts,BD
+BD-08,Cumilla,Bangladeshi (BD) districts,BD
+BD-09,Chandpur,Bangladeshi (BD) districts,BD
+BD-10,Chattogram,Bangladeshi (BD) districts,BD
+BD-11,Cox’s Bazar,Bangladeshi (BD) districts,BD
+BD-12,Chuadanga,Bangladeshi (BD) districts,BD
+BD-13,Dhaka,Bangladeshi (BD) districts,BD
+BD-14,Dinajpur,Bangladeshi (BD) districts,BD
+BD-15,Faridpur,Bangladeshi (BD) districts,BD
+BD-16,Feni,Bangladeshi (BD) districts,BD
+BD-17,Gopalganj,Bangladeshi (BD) districts,BD
+BD-18,Gazipur,Bangladeshi (BD) districts,BD
+BD-19,Gaibandha,Bangladeshi (BD) districts,BD
+BD-20,Habiganj,Bangladeshi (BD) districts,BD
+BD-21,Jamalpur,Bangladeshi (BD) districts,BD
+BD-22,Jashore,Bangladeshi (BD) districts,BD
+BD-23,Jhenaidah,Bangladeshi (BD) districts,BD
+BD-24,Joypurhat,Bangladeshi (BD) districts,BD
+BD-25,Jhalokati,Bangladeshi (BD) districts,BD
+BD-26,Kishoreganj,Bangladeshi (BD) districts,BD
+BD-27,Khulna,Bangladeshi (BD) districts,BD
+BD-28,Kurigram,Bangladeshi (BD) districts,BD
+BD-29,Khagrachhari,Bangladeshi (BD) districts,BD
+BD-30,Kushtia,Bangladeshi (BD) districts,BD
+BD-31,Lakshmipur,Bangladeshi (BD) districts,BD
+BD-32,Lalmonirhat,Bangladeshi (BD) districts,BD
+BD-33,Manikganj,Bangladeshi (BD) districts,BD
+BD-34,Mymensingh,Bangladeshi (BD) districts,BD
+BD-35,Munshiganj,Bangladeshi (BD) districts,BD
+BD-36,Madaripur,Bangladeshi (BD) districts,BD
+BD-37,Magura,Bangladeshi (BD) districts,BD
+BD-38,Moulvibazar,Bangladeshi (BD) districts,BD
+BD-39,Meherpur,Bangladeshi (BD) districts,BD
+BD-40,Narayanganj,Bangladeshi (BD) districts,BD
+BD-41,Netrakona,Bangladeshi (BD) districts,BD
+BD-42,Narsingdi,Bangladeshi (BD) districts,BD
+BD-43,Narail,Bangladeshi (BD) districts,BD
+BD-44,Natore,Bangladeshi (BD) districts,BD
+BD-45,Nawabganj,Bangladeshi (BD) districts,BD
+BD-46,Nilphamari,Bangladeshi (BD) districts,BD
+BD-47,Noakhali,Bangladeshi (BD) districts,BD
+BD-48,Naogaon,Bangladeshi (BD) districts,BD
+BD-49,Pabna,Bangladeshi (BD) districts,BD
+BD-50,Pirojpur,Bangladeshi (BD) districts,BD
+BD-51,Patuakhali,Bangladeshi (BD) districts,BD
+BD-52,Panchagarh,Bangladeshi (BD) districts,BD
+BD-53,Rajbari,Bangladeshi (BD) districts,BD
+BD-54,Rajshahi,Bangladeshi (BD) districts,BD
+BD-55,Rangpur,Bangladeshi (BD) districts,BD
+BD-56,Rangamati,Bangladeshi (BD) districts,BD
+BD-57,Sherpur,Bangladeshi (BD) districts,BD
+BD-58,Satkhira,Bangladeshi (BD) districts,BD
+BD-59,Sirajganj,Bangladeshi (BD) districts,BD
+BD-60,Sylhet,Bangladeshi (BD) districts,BD
+BD-61,Sunamganj,Bangladeshi (BD) districts,BD
+BD-62,Shariatpur,Bangladeshi (BD) districts,BD
+BD-63,Tangail,Bangladeshi (BD) districts,BD
+BD-64,Thakurgaon,Bangladeshi (BD) districts,BD
+AK,Atakora,Beninese (BJ) states,BJ
+AL,Alibori,Beninese (BJ) states,BJ
+AQ,Atlantique,Beninese (BJ) states,BJ
+BO,Borgou,Beninese (BJ) states,BJ
+CO,Collines,Beninese (BJ) states,BJ
+DO,Donga,Beninese (BJ) states,BJ
+KO,Kouffo,Beninese (BJ) states,BJ
+LI,Littoral,Beninese (BJ) states,BJ
+MO,Mono,Beninese (BJ) states,BJ
+OU,Ouémé,Beninese (BJ) states,BJ
+PL,Plateau,Beninese (BJ) states,BJ
+ZO,Zou,Beninese (BJ) states,BJ
+BO-B,Beni,Bolivian (BO) states,BO
+BO-C,Cochabamba,Bolivian (BO) states,BO
+BO-H,Chuquisaca,Bolivian (BO) states,BO
+BO-L,La Paz,Bolivian (BO) states,BO
+BO-N,Pando,Bolivian (BO) states,BO
+BO-O,Oruro,Bolivian (BO) states,BO
+BO-P,Potosí,Bolivian (BO) states,BO
+BO-S,Santa Cruz,Bolivian (BO) states,BO
+BO-T,Tarija,Bolivian (BO) states,BO
+AC,Acre,Brazilian (BR) states,BR
+AL,Alagoas,Brazilian (BR) states,BR
+AM,Amazonas,Brazilian (BR) states,BR
+AP,Amapá,Brazilian (BR) states,BR
+BA,Bahia,Brazilian (BR) states,BR
+CE,Ceará,Brazilian (BR) states,BR
+DF,Distrito Federal,Brazilian (BR) states,BR
+ES,Espírito Santo,Brazilian (BR) states,BR
+GO,Goiás,Brazilian (BR) states,BR
+MA,Maranhão,Brazilian (BR) states,BR
+MG,Minas Gerais,Brazilian (BR) states,BR
+MS,Mato Grosso do Sul,Brazilian (BR) states,BR
+MT,Mato Grosso,Brazilian (BR) states,BR
+PA,Pará,Brazilian (BR) states,BR
+PB,Paraíba,Brazilian (BR) states,BR
+PE,Pernambuco,Brazilian (BR) states,BR
+PI,Piauí,Brazilian (BR) states,BR
+PR,Paraná,Brazilian (BR) states,BR
+RJ,Rio de Janeiro,Brazilian (BR) states,BR
+RN,Rio Grande do Norte,Brazilian (BR) states,BR
+RO,Rondônia,Brazilian (BR) states,BR
+RR,Roraima,Brazilian (BR) states,BR
+RS,Rio Grande do Sul,Brazilian (BR) states,BR
+SC,Santa Catarina,Brazilian (BR) states,BR
+SE,Sergipe,Brazilian (BR) states,BR
+SP,São Paulo,Brazilian (BR) states,BR
+TO,Tocantins,Brazilian (BR) states,BR
+BG-01,Blagoevgrad,Bulgarian (BG) states,BG
+BG-02,Burga,Bulgarian (BG) states,BG
+BG-03,Varna,Bulgarian (BG) states,BG
+BG-04,Veliko Tarnovo,Bulgarian (BG) states,BG
+BG-05,Vidin,Bulgarian (BG) states,BG
+BG-06,Vratsa,Bulgarian (BG) states,BG
+BG-07,Gabrovo,Bulgarian (BG) states,BG
+BG-08,Dobrich,Bulgarian (BG) states,BG
+BG-09,Kardzhali,Bulgarian (BG) states,BG
+BG-10,Kyustendil,Bulgarian (BG) states,BG
+BG-11,Lovech,Bulgarian (BG) states,BG
+BG-12,Montana,Bulgarian (BG) states,BG
+BG-13,Pazardzhik,Bulgarian (BG) states,BG
+BG-14,Pernik,Bulgarian (BG) states,BG
+BG-15,Pleven,Bulgarian (BG) states,BG
+BG-16,Plovdiv,Bulgarian (BG) states,BG
+BG-17,Razgrad,Bulgarian (BG) states,BG
+BG-18,Ruse,Bulgarian (BG) states,BG
+BG-19,Silistra,Bulgarian (BG) states,BG
+BG-20,Sliven,Bulgarian (BG) states,BG
+BG-21,Smolyan,Bulgarian (BG) states,BG
+BG-22,Sofia-Grad,Bulgarian (BG) states,BG
+BG-23,Sofia,Bulgarian (BG) states,BG
+BG-24,Stara Zagora,Bulgarian (BG) states,BG
+BG-25,Targovishte,Bulgarian (BG) states,BG
+BG-26,Haskovo,Bulgarian (BG) states,BG
+BG-27,Shumen,Bulgarian (BG) states,BG
+BG-28,Yambol,Bulgarian (BG) states,BG
+AB,Alberta,Canadian (CA) states,CA
+BC,British Columbia,Canadian (CA) states,CA
+MB,Manitoba,Canadian (CA) states,CA
+NB,New Brunswick,Canadian (CA) states,CA
+NL,Newfoundland and Labrador,Canadian (CA) states,CA
+NS,Nova Scotia,Canadian (CA) states,CA
+NT,Northwest Territories,Canadian (CA) states,CA
+NU,Nunavut,Canadian (CA) states,CA
+ON,Ontario,Canadian (CA) states,CA
+PE,Prince Edward Island,Canadian (CA) states,CA
+QC,Quebec,Canadian (CA) states,CA
+SK,Saskatchewan,Canadian (CA) states,CA
+YT,Yukon Territory,Canadian (CA) states,CA
+CL-AI,Aisén del General Carlos Ibañez del Campo,Chilean (CL) states,CL
+CL-AN,Antofagasta,Chilean (CL) states,CL
+CL-AP,Arica y Parinacota,Chilean (CL) states,CL
+CL-AR,La Araucanía,Chilean (CL) states,CL
+CL-AT,Atacama,Chilean (CL) states,CL
+CL-BI,Biobío,Chilean (CL) states,CL
+CL-CO,Coquimbo,Chilean (CL) states,CL
+CL-LI,Libertador General Bernardo O\ Higgins,Chilean (CL) states,CL
+CL-LL,Los Lagos,Chilean (CL) states,CL
+CL-LR,Los Ríos,Chilean (CL) states,CL
+CL-MA,Magallanes,Chilean (CL) states,CL
+CL-ML,Maule,Chilean (CL) states,CL
+CL-NB,Ñuble,Chilean (CL) states,CL
+CL-RM,Región Metropolitana de Santiago,Chilean (CL) states,CL
+CL-TA,Tarapacá,Chilean (CL) states,CL
+CL-VS,Valparaíso,Chilean (CL) states,CL
+CN1,Yunnan / 云南,Chinese (CN) states,CN
+CN10,Shanghai / 上海,Chinese (CN) states,CN
+CN11,Jiangsu / 江苏,Chinese (CN) states,CN
+CN12,Zhejiang / 浙江,Chinese (CN) states,CN
+CN13,Anhui / 安徽,Chinese (CN) states,CN
+CN14,Fujian / 福建,Chinese (CN) states,CN
+CN15,Jiangxi / 江西,Chinese (CN) states,CN
+CN16,Shandong / 山东,Chinese (CN) states,CN
+CN17,Henan / 河南,Chinese (CN) states,CN
+CN18,Hubei / 湖北,Chinese (CN) states,CN
+CN19,Hunan / 湖南,Chinese (CN) states,CN
+CN2,Beijing / 北京,Chinese (CN) states,CN
+CN20,Guangdong / 广东,Chinese (CN) states,CN
+CN21,Guangxi Zhuang / 广西壮族,Chinese (CN) states,CN
+CN22,Hainan / 海南,Chinese (CN) states,CN
+CN23,Chongqing / 重庆,Chinese (CN) states,CN
+CN24,Sichuan / 四川,Chinese (CN) states,CN
+CN25,Guizhou / 贵 州,Chinese (CN) states,CN
+CN26,Shaanxi / 陕西,Chinese (CN) states,CN
+CN27,Gansu / 甘肃,Chinese (CN) states,CN
+CN28,Qinghai / 青海,Chinese (CN) states,CN
+CN29,Ningxia Hui / 宁夏,Chinese (CN) states,CN
+CN3,Tianjin / 天津,Chinese (CN) states,CN
+CN30,Macao / 澳门,Chinese (CN) states,CN
+CN31,Tibet / 西藏,Chinese (CN) states,CN
+CN32,Xinjiang / 新疆,Chinese (CN) states,CN
+CN4,Hebei / 河北,Chinese (CN) states,CN
+CN5,Shanxi / 山西,Chinese (CN) states,CN
+CN6,Inner Mongolia / 內蒙古,Chinese (CN) states,CN
+CN7,Liaoning / 辽宁,Chinese (CN) states,CN
+CN8,Jilin / 吉林,Chinese (CN) states,CN
+CN9,Heilongjiang / 黑龙江,Chinese (CN) states,CN
+CO-AMA,Amazonas,Colombian (CO) states,CO
+CO-ANT,Antioquia,Colombian (CO) states,CO
+CO-ARA,Arauca,Colombian (CO) states,CO
+CO-ATL,Atlántico,Colombian (CO) states,CO
+CO-BOL,Bolívar,Colombian (CO) states,CO
+CO-BOY,Boyacá,Colombian (CO) states,CO
+CO-CAL,Caldas,Colombian (CO) states,CO
+CO-CAQ,Caquetá,Colombian (CO) states,CO
+CO-CAS,Casanare,Colombian (CO) states,CO
+CO-CAU,Cauca,Colombian (CO) states,CO
+CO-CES,Cesar,Colombian (CO) states,CO
+CO-CHO,Chocó,Colombian (CO) states,CO
+CO-COR,Córdoba,Colombian (CO) states,CO
+CO-CUN,Cundinamarca,Colombian (CO) states,CO
+CO-DC,Capital District,Colombian (CO) states,CO
+CO-GUA,Guainía,Colombian (CO) states,CO
+CO-GUV,Guaviare,Colombian (CO) states,CO
+CO-HUI,Huila,Colombian (CO) states,CO
+CO-LAG,La Guajira,Colombian (CO) states,CO
+CO-MAG,Magdalena,Colombian (CO) states,CO
+CO-MET,Meta,Colombian (CO) states,CO
+CO-NAR,Nariño,Colombian (CO) states,CO
+CO-NSA,Norte de Santander,Colombian (CO) states,CO
+CO-PUT,Putumayo,Colombian (CO) states,CO
+CO-QUI,Quindío,Colombian (CO) states,CO
+CO-RIS,Risaralda,Colombian (CO) states,CO
+CO-SAN,Santander,Colombian (CO) states,CO
+CO-SAP,San Andrés & Providencia,Colombian (CO) states,CO
+CO-SUC,Sucre,Colombian (CO) states,CO
+CO-TOL,Tolima,Colombian (CO) states,CO
+CO-VAC,Valle del Cauca,Colombian (CO) states,CO
+CO-VAU,Vaupés,Colombian (CO) states,CO
+CO-VID,Vichada,Colombian (CO) states,CO
+CR-A,Alajuela,Costa Rican (CR) states,CR
+CR-C,Cartago,Costa Rican (CR) states,CR
+CR-G,Guanacaste,Costa Rican (CR) states,CR
+CR-H,Heredia,Costa Rican (CR) states,CR
+CR-L,Limón,Costa Rican (CR) states,CR
+CR-P,Puntarenas,Costa Rican (CR) states,CR
+CR-SJ,San José,Costa Rican (CR) states,CR
+DO-01,Distrito Nacional,Dominican (DO) states,DO
+DO-02,Azua,Dominican (DO) states,DO
+DO-03,Baoruco,Dominican (DO) states,DO
+DO-04,Barahona,Dominican (DO) states,DO
+DO-05,Dajabón,Dominican (DO) states,DO
+DO-06,Duarte,Dominican (DO) states,DO
+DO-07,Elías Piña,Dominican (DO) states,DO
+DO-08,El Seibo,Dominican (DO) states,DO
+DO-09,Espaillat,Dominican (DO) states,DO
+DO-10,Independencia,Dominican (DO) states,DO
+DO-11,La Altagracia,Dominican (DO) states,DO
+DO-12,La Romana,Dominican (DO) states,DO
+DO-13,La Vega,Dominican (DO) states,DO
+DO-14,María Trinidad Sánchez,Dominican (DO) states,DO
+DO-15,Monte Cristi,Dominican (DO) states,DO
+DO-16,Pedernales,Dominican (DO) states,DO
+DO-17,Peravia,Dominican (DO) states,DO
+DO-18,Puerto Plata,Dominican (DO) states,DO
+DO-19,Hermanas Mirabal,Dominican (DO) states,DO
+DO-20,Samaná,Dominican (DO) states,DO
+DO-21,San Cristóbal,Dominican (DO) states,DO
+DO-22,San Juan,Dominican (DO) states,DO
+DO-23,San Pedro de Macorís,Dominican (DO) states,DO
+DO-24,Sánchez Ramírez,Dominican (DO) states,DO
+DO-25,Santiago,Dominican (DO) states,DO
+DO-26,Santiago Rodríguez,Dominican (DO) states,DO
+DO-27,Valverde,Dominican (DO) states,DO
+DO-28,Monseñor Nouel,Dominican (DO) states,DO
+DO-29,Monte Plata,Dominican (DO) states,DO
+DO-30,Hato Mayor,Dominican (DO) states,DO
+DO-31,San José de Ocoa,Dominican (DO) states,DO
+DO-32,Santo Domingo,Dominican (DO) states,DO
+DO-33,Cibao Nordeste,Dominican (DO) states,DO
+DO-34,Cibao Noroeste,Dominican (DO) states,DO
+DO-35,Cibao Norte,Dominican (DO) states,DO
+DO-36,Cibao Sur,Dominican (DO) states,DO
+DO-37,El Valle,Dominican (DO) states,DO
+DO-38,Enriquillo,Dominican (DO) states,DO
+DO-39,Higüamo,Dominican (DO) states,DO
+DO-40,Ozama,Dominican (DO) states,DO
+DO-41,Valdesia,Dominican (DO) states,DO
+DO-42,Yuma,Dominican (DO) states,DO
+EC-A,Azuay,Ecuadorian (EC) states,EC
+EC-B,Bolívar,Ecuadorian (EC) states,EC
+EC-C,Carchi,Ecuadorian (EC) states,EC
+EC-D,Orellana,Ecuadorian (EC) states,EC
+EC-E,Esmeraldas,Ecuadorian (EC) states,EC
+EC-F,Cañar,Ecuadorian (EC) states,EC
+EC-G,Guayas,Ecuadorian (EC) states,EC
+EC-H,Chimborazo,Ecuadorian (EC) states,EC
+EC-I,Imbabura,Ecuadorian (EC) states,EC
+EC-L,Loja,Ecuadorian (EC) states,EC
+EC-M,Manabí,Ecuadorian (EC) states,EC
+EC-N,Napo,Ecuadorian (EC) states,EC
+EC-O,El Oro,Ecuadorian (EC) states,EC
+EC-P,Pichincha,Ecuadorian (EC) states,EC
+EC-R,Los Ríos,Ecuadorian (EC) states,EC
+EC-S,Morona-Santiago,Ecuadorian (EC) states,EC
+EC-SD,Santo Domingo de los Tsáchilas,Ecuadorian (EC) states,EC
+EC-SE,Santa Elena,Ecuadorian (EC) states,EC
+EC-T,Tungurahua,Ecuadorian (EC) states,EC
+EC-U,Sucumbíos,Ecuadorian (EC) states,EC
+EC-W,Galápagos,Ecuadorian (EC) states,EC
+EC-X,Cotopaxi,Ecuadorian (EC) states,EC
+EC-Y,Pastaza,Ecuadorian (EC) states,EC
+EC-Z,Zamora-Chinchipe,Ecuadorian (EC) states,EC
+EGALX,Alexandria,Egyptian (EG) states,EG
+EGASN,Aswan,Egyptian (EG) states,EG
+EGAST,Asyut,Egyptian (EG) states,EG
+EGBA,Red Sea,Egyptian (EG) states,EG
+EGBH,Beheira,Egyptian (EG) states,EG
+EGBNS,Beni Suef,Egyptian (EG) states,EG
+EGC,Cairo,Egyptian (EG) states,EG
+EGDK,Dakahlia,Egyptian (EG) states,EG
+EGDT,Damietta,Egyptian (EG) states,EG
+EGFYM,Faiyum,Egyptian (EG) states,EG
+EGGH,Gharbia,Egyptian (EG) states,EG
+EGGZ,Giza,Egyptian (EG) states,EG
+EGIS,Ismailia,Egyptian (EG) states,EG
+EGJS,South Sinai,Egyptian (EG) states,EG
+EGKB,Qalyubia,Egyptian (EG) states,EG
+EGKFS,Kafr el-Sheikh,Egyptian (EG) states,EG
+EGKN,Qena,Egyptian (EG) states,EG
+EGLX,Luxor,Egyptian (EG) states,EG
+EGMN,Minya,Egyptian (EG) states,EG
+EGMNF,Monufia,Egyptian (EG) states,EG
+EGMT,Matrouh,Egyptian (EG) states,EG
+EGPTS,Port Said,Egyptian (EG) states,EG
+EGSHG,Sohag,Egyptian (EG) states,EG
+EGSHR,Al Sharqia,Egyptian (EG) states,EG
+EGSIN,North Sinai,Egyptian (EG) states,EG
+EGSUZ,Suez,Egyptian (EG) states,EG
+EGWAD,New Valley,Egyptian (EG) states,EG
+DE-BB,Brandenburg,German (DE) states,DE
+DE-BE,Berlin,German (DE) states,DE
+DE-BW,Baden-Württemberg,German (DE) states,DE
+DE-BY,Bavaria,German (DE) states,DE
+DE-HB,Bremen,German (DE) states,DE
+DE-HE,Hesse,German (DE) states,DE
+DE-HH,Hamburg,German (DE) states,DE
+DE-MV,Mecklenburg-Vorpommern,German (DE) states,DE
+DE-NI,Lower Saxony,German (DE) states,DE
+DE-NW,North Rhine-Westphalia,German (DE) states,DE
+DE-RP,Rhineland-Palatinate,German (DE) states,DE
+DE-SH,Schleswig-Holstein,German (DE) states,DE
+DE-SL,Saarland,German (DE) states,DE
+DE-SN,Saxony,German (DE) states,DE
+DE-ST,Saxony-Anhalt,German (DE) states,DE
+DE-TH,Thuringia,German (DE) states,DE
+AA,Greater Accra,Ghanaian (GH) regions,GH
+AF,Ahafo,Ghanaian (GH) regions,GH
+AH,Ashanti,Ghanaian (GH) regions,GH
+BA,Brong-Ahafo,Ghanaian (GH) regions,GH
+BE,Bono East,Ghanaian (GH) regions,GH
+BO,Bono,Ghanaian (GH) regions,GH
+CP,Central,Ghanaian (GH) regions,GH
+EP,Eastern,Ghanaian (GH) regions,GH
+NE,North East,Ghanaian (GH) regions,GH
+NP,Northern,Ghanaian (GH) regions,GH
+OT,Oti,Ghanaian (GH) regions,GH
+SV,Savannah,Ghanaian (GH) regions,GH
+TV,Volta,Ghanaian (GH) regions,GH
+UE,Upper East,Ghanaian (GH) regions,GH
+UW,Upper West,Ghanaian (GH) regions,GH
+WN,Western North,Ghanaian (GH) regions,GH
+WP,Western,Ghanaian (GH) regions,GH
+A,East Macedonia and Thrace,Greek (GR) regions,GR
+B,Central Macedonia,Greek (GR) regions,GR
+C,West Macedonia,Greek (GR) regions,GR
+D,Epirus,Greek (GR) regions,GR
+E,Thessaly,Greek (GR) regions,GR
+F,Ionian Islands,Greek (GR) regions,GR
+G,West Greece,Greek (GR) regions,GR
+H,Central Greece,Greek (GR) regions,GR
+I Attica,,Greek (GR) regions,GR
+J,Peloponnese,Greek (GR) regions,GR
+K,North Aegean,Greek (GR) regions,GR
+L,South Aegean,Greek (GR) regions,GR
+M,Crete,Greek (GR) regions,GR
+GT-AV,Alta Verapaz,Guatemalan (GT) states,GT
+GT-AV,Alta Verapaz,Guatemalan (GT) states,GT
+GT-BV,Baja Verapaz,Guatemalan (GT) states,GT
+GT-BV,Baja Verapaz,Guatemalan (GT) states,GT
+GT-CM,Chimaltenango,Guatemalan (GT) states,GT
+GT-CM,Chimaltenango,Guatemalan (GT) states,GT
+GT-CQ,Chiquimula,Guatemalan (GT) states,GT
+GT-CQ,Chiquimula,Guatemalan (GT) states,GT
+GT-ES,Escuintla,Guatemalan (GT) states,GT
+GT-ES,Escuintla,Guatemalan (GT) states,GT
+GT-GU,Guatemala,Guatemalan (GT) states,GT
+GT-GU,Guatemala,Guatemalan (GT) states,GT
+GT-HU,Huehuetenango,Guatemalan (GT) states,GT
+GT-HU,Huehuetenango,Guatemalan (GT) states,GT
+GT-IZ,Izabal,Guatemalan (GT) states,GT
+GT-IZ,Izabal,Guatemalan (GT) states,GT
+GT-JA,Jalapa,Guatemalan (GT) states,GT
+GT-JA,Jalapa,Guatemalan (GT) states,GT
+GT-JU,Jutiapa,Guatemalan (GT) states,GT
+GT-JU,Jutiapa,Guatemalan (GT) states,GT
+GT-PE,Petén,Guatemalan (GT) states,GT
+GT-PE,Petén,Guatemalan (GT) states,GT
+GT-PR,El Progreso,Guatemalan (GT) states,GT
+GT-PR El,Progreso,Guatemalan (GT) states,GT
+GT-QC,Quiché,Guatemalan (GT) states,GT
+GT-QC,Quiché,Guatemalan (GT) states,GT
+GT-QZ,Quetzaltenango,Guatemalan (GT) states,GT
+GT-QZ,Quetzaltenango,Guatemalan (GT) states,GT
+GT-RE,Retalhuleu,Guatemalan (GT) states,GT
+GT-RE,Retalhuleu,Guatemalan (GT) states,GT
+GT-SA,Sacatepéquez,Guatemalan (GT) states,GT
+GT-SA,Sacatepéquez,Guatemalan (GT) states,GT
+GT-SM,San Marcos,Guatemalan (GT) states,GT
+GT-SM,San Marcos,Guatemalan (GT) states,GT
+GT-SO,Sololá,Guatemalan (GT) states,GT
+GT-SO,Sololá,Guatemalan (GT) states,GT
+GT-SR,Santa Rosa,Guatemalan (GT) states,GT
+GT-SR,Santa Rosa,Guatemalan (GT) states,GT
+GT-SU,Suchitepéquez,Guatemalan (GT) states,GT
+GT-SU,Suchitepéquez,Guatemalan (GT) states,GT
+GT-TO,Totonicapán,Guatemalan (GT) states,GT
+GT-TO,Totonicapán,Guatemalan (GT) states,GT
+GT-ZA,Zacapa,Guatemalan (GT) states,GT
+GT-ZA,Zacapa,Guatemalan (GT) states,GT
+HN-AT,Atlántida,Honduran (HN) states,HN
+HN-CH,Choluteca,Honduran (HN) states,HN
+HN-CL,Colón,Honduran (HN) states,HN
+HN-CM,Comayagua,Honduran (HN) states,HN
+HN-CP,Copán,Honduran (HN) states,HN
+HN-CR,Cortés,Honduran (HN) states,HN
+HN-EP,El Paraíso,Honduran (HN) states,HN
+HN-FM,Francisco Morazán,Honduran (HN) states,HN
+HN-GD,Gracias a Dios,Honduran (HN) states,HN
+HN-IB,Bay Islands,Honduran (HN) states,HN
+HN-IN,Intibucá,Honduran (HN) states,HN
+HN-LE,Lempira,Honduran (HN) states,HN
+HN-LP,La Paz,Honduran (HN) states,HN
+HN-OC,Ocotepeque,Honduran (HN) states,HN
+HN-OL,Olancho,Honduran (HN) states,HN
+HN-SB,Santa Bárbara,Honduran (HN) states,HN
+HN-VA,Valle,Honduran (HN) states,HN
+HN-YO,Yoro,Honduran (HN) states,HN
+HONG KONG,Hong Kong Island,Hong Kong (HK) states,HK
+KOWLOON,Kowloon,Hong Kong (HK) states,HK
+NEW TERRITORIES,New Territories,Hong Kong (HK) states,HK
+BA,Baranya,Hungarian (HU) states,HU
+BE,Békés,Hungarian (HU) states,HU
+BK,Bács-Kiskun,Hungarian (HU) states,HU
+BU,Budapest,Hungarian (HU) states,HU
+BZ,Borsod-Abaúj-Zemplén,Hungarian (HU) states,HU
+CS,Csongrád-Csanád,Hungarian (HU) states,HU
+FE,Fejér,Hungarian (HU) states,HU
+GS,Győr-Moson-Sopron,Hungarian (HU) states,HU
+HB,Hajdú-Bihar,Hungarian (HU) states,HU
+HE,Heves,Hungarian (HU) states,HU
+JN,Jász-Nagykun-Szolnok,Hungarian (HU) states,HU
+KE,Komárom-Esztergom,Hungarian (HU) states,HU
+NO,Nógrád,Hungarian (HU) states,HU
+PE,Pest,Hungarian (HU) states,HU
+SO,Somogy,Hungarian (HU) states,HU
+SZ,Szabolcs-Szatmár-Bereg,Hungarian (HU) states,HU
+TO,Tolna,Hungarian (HU) states,HU
+VA,Vas,Hungarian (HU) states,HU
+VE,Veszprém,Hungarian (HU) states,HU
+ZA,Zala,Hungarian (HU) states,HU
+AN,Andaman and Nicobar Islands,Indian (IN) states,IN
+AP,Andhra Pradesh,Indian (IN) states,IN
+AR,Arunachal Pradesh,Indian (IN) states,IN
+AS,Assam,Indian (IN) states,IN
+BR,Bihar,Indian (IN) states,IN
+CH,Chandigarh,Indian (IN) states,IN
+CT,Chhattisgarh,Indian (IN) states,IN
+DD,Daman and Diu,Indian (IN) states,IN
+DL,Delhi,Indian (IN) states,IN
+DN,Dadra and Nagar Haveli,Indian (IN) states,IN
+GA,Goa,Indian (IN) states,IN
+GJ,Gujarat,Indian (IN) states,IN
+HP,Himachal Pradesh,Indian (IN) states,IN
+HR,Haryana,Indian (IN) states,IN
+JH,Jharkhand,Indian (IN) states,IN
+JK,Jammu and Kashmir,Indian (IN) states,IN
+KA,Karnataka,Indian (IN) states,IN
+KL,Kerala,Indian (IN) states,IN
+LA,Ladakh,Indian (IN) states,IN
+LD,Lakshadeep,Indian (IN) states,IN
+MH,Maharashtra,Indian (IN) states,IN
+ML,Meghalaya,Indian (IN) states,IN
+MN,Manipur,Indian (IN) states,IN
+MP,Madhya Pradesh,Indian (IN) states,IN
+MZ,Mizoram,Indian (IN) states,IN
+NL,Nagaland,Indian (IN) states,IN
+OR,Odisha,Indian (IN) states,IN
+PB,Punjab,Indian (IN) states,IN
+PY,Puducherry,Indian (IN) states,IN
+RJ,Rajasthan,Indian (IN) states,IN
+SK,Sikkim,Indian (IN) states,IN
+TN,Tamil Nadu,Indian (IN) states,IN
+TR,Tripura,Indian (IN) states,IN
+TS,Telangana,Indian (IN) states,IN
+UK,Uttarakhand,Indian (IN) states,IN
+UP,Uttar Pradesh,Indian (IN) states,IN
+WB,West Bengal,Indian (IN) states,IN
+AC,Daerah Istimewa Aceh,Indonesian (ID) provinces,ID
+BA,Bali,Indonesian (ID) provinces,ID
+BB,Bangka Belitung,Indonesian (ID) provinces,ID
+BE,Bengkulu,Indonesian (ID) provinces,ID
+BT,Banten,Indonesian (ID) provinces,ID
+GO,Gorontalo,Indonesian (ID) provinces,ID
+JA,Jambi,Indonesian (ID) provinces,ID
+JB,Jawa Barat,Indonesian (ID) provinces,ID
+JI,Jawa Timur,Indonesian (ID) provinces,ID
+JK,DKI Jakarta,Indonesian (ID) provinces,ID
+JT,Jawa Tengah,Indonesian (ID) provinces,ID
+KB,Kalimantan Barat,Indonesian (ID) provinces,ID
+KI,Kalimantan Timur,Indonesian (ID) provinces,ID
+KR,Kepulauan Riau,Indonesian (ID) provinces,ID
+KS,Kalimantan Selatan,Indonesian (ID) provinces,ID
+KT,Kalimantan Tengah,Indonesian (ID) provinces,ID
+KU,Kalimantan Utara,Indonesian (ID) provinces,ID
+LA,Lampung,Indonesian (ID) provinces,ID
+MA,Maluku,Indonesian (ID) provinces,ID
+MU,Maluku Utara,Indonesian (ID) provinces,ID
+NB,Nusa Tenggara Barat,Indonesian (ID) provinces,ID
+NT,Nusa Tenggara Timur,Indonesian (ID) provinces,ID
+PA,Papua,Indonesian (ID) provinces,ID
+PB,Papua Barat,Indonesian (ID) provinces,ID
+RI,Riau,Indonesian (ID) provinces,ID
+SA,Sulawesi Utara,Indonesian (ID) provinces,ID
+SB,Sumatera Barat,Indonesian (ID) provinces,ID
+SG,Sulawesi Tenggara,Indonesian (ID) provinces,ID
+SN,Sulawesi Selatan,Indonesian (ID) provinces,ID
+SR,Sulawesi Barat,Indonesian (ID) provinces,ID
+SS,Sumatera Selatan,Indonesian (ID) provinces,ID
+ST,Sulawesi Tengah,Indonesian (ID) provinces,ID
+SU,Sumatera Utara,Indonesian (ID) provinces,ID
+YO,Daerah Istimewa Yogyakarta,Indonesian (ID) provinces,ID
+ABZ,Alborz (البرز),Iranian (IR) states,IR
+ADL,Ardabil (اردبیل),Iranian (IR) states,IR
+BHR,Bushehr (بوشهر),Iranian (IR) states,IR
+CHB,Chaharmahal and Bakhtiari (چهارمحال و بختیاری),Iranian (IR) states,IR
+EAZ,East Azarbaijan (آذربایجان شرقی),Iranian (IR) states,IR
+ESF,Isfahan (اصفهان),Iranian (IR) states,IR
+FRS,Fars (فارس),Iranian (IR) states,IR
+GIL,Gilan (گیلان),Iranian (IR) states,IR
+GLS,Golestan (گلستان),Iranian (IR) states,IR
+GZN,Ghazvin (قزوین),Iranian (IR) states,IR
+HDN,Hamadan (همدان),Iranian (IR) states,IR
+HRZ,Hormozgan (هرمزگان),Iranian (IR) states,IR
+ILM,Ilaam (ایلام),Iranian (IR) states,IR
+KBD,Kohgiluyeh and BoyerAhmad (کهگیلوییه و بویراحمد),Iranian (IR) states,IR
+KHZ,Khuzestan (خوزستان),Iranian (IR) states,IR
+KRD,Kurdistan / کردستان),Iranian (IR) states,IR
+KRH,Kermanshah (کرمانشاه),Iranian (IR) states,IR
+KRN,Kerman (کرمان),Iranian (IR) states,IR
+LRS,Luristan (لرستان),Iranian (IR) states,IR
+MKZ,Markazi (مرکزی),Iranian (IR) states,IR
+MZN,Mazandaran (مازندران),Iranian (IR) states,IR
+NKH,North Khorasan (خراسان شمالی),Iranian (IR) states,IR
+QHM,Qom (قم),Iranian (IR) states,IR
+RKH,Razavi Khorasan (خراسان رضوی),Iranian (IR) states,IR
+SBN,Sistan and Baluchestan (سیستان و بلوچستان),Iranian (IR) states,IR
+SKH,South Khorasan (خراسان جنوبی),Iranian (IR) states,IR
+SMN,Semnan (سمنان),Iranian (IR) states,IR
+THR,Tehran (تهران),Iranian (IR) states,IR
+WAZ,West Azarbaijan (آذربایجان غربی),Iranian (IR) states,IR
+YZD,Yazd (یزد),Iranian (IR) states,IR
+ZJN,Zanjan (زنجان),Iranian (IR) states,IR
+CE,Clare,Irish (IE) states,IE
+CN,Cavan,Irish (IE) states,IE
+CO,Cork,Irish (IE) states,IE
+CW,Carlow,Irish (IE) states,IE
+D,Dublin,Irish (IE) states,IE
+DL,Donegal,Irish (IE) states,IE
+G,Galway,Irish (IE) states,IE
+KE,Kildare,Irish (IE) states,IE
+KK,Kilkenny,Irish (IE) states,IE
+KY,Kerry,Irish (IE) states,IE
+LD,Longford,Irish (IE) states,IE
+LH,Louth,Irish (IE) states,IE
+LK,Limerick,Irish (IE) states,IE
+LM,Leitrim,Irish (IE) states,IE
+LS,Laois,Irish (IE) states,IE
+MH,Meath,Irish (IE) states,IE
+MN,Monaghan,Irish (IE) states,IE
+MO,Mayo,Irish (IE) states,IE
+OY,Offaly,Irish (IE) states,IE
+RN,Roscommon,Irish (IE) states,IE
+SO,Sligo,Irish (IE) states,IE
+TA,Tipperary,Irish (IE) states,IE
+WD,Waterford,Irish (IE) states,IE
+WH,Westmeath,Irish (IE) states,IE
+WW,Wicklow,Irish (IE) states,IE
+WX,Wexford,Irish (IE) states,IE
+AG,Agrigento,Italian (IT) provinces,IT
+AL,Alessandria,Italian (IT) provinces,IT
+AN,Ancona,Italian (IT) provinces,IT
+AO,Aosta,Italian (IT) provinces,IT
+AP,Ascoli Piceno,Italian (IT) provinces,IT
+AQ,L Aquila,Italian (IT) provinces,IT
+AR,Arezzo,Italian (IT) provinces,IT
+AT,Asti,Italian (IT) provinces,IT
+AV,Avellino,Italian (IT) provinces,IT
+BA,Bari,Italian (IT) provinces,IT
+BG,Bergamo,Italian (IT) provinces,IT
+BI,Biella,Italian (IT) provinces,IT
+BL,Belluno,Italian (IT) provinces,IT
+BN,Benevento,Italian (IT) provinces,IT
+BO,Bologna,Italian (IT) provinces,IT
+BR,Brindisi,Italian (IT) provinces,IT
+BS,Brescia,Italian (IT) provinces,IT
+BT,Barletta-Andria-Trani,Italian (IT) provinces,IT
+BZ,Bolzano,Italian (IT) provinces,IT
+CA,Cagliari,Italian (IT) provinces,IT
+CB,Campobasso,Italian (IT) provinces,IT
+CE,Caserta,Italian (IT) provinces,IT
+CH,Chieti,Italian (IT) provinces,IT
+CL,Caltanissetta,Italian (IT) provinces,IT
+CN,Cuneo,Italian (IT) provinces,IT
+CO,Como,Italian (IT) provinces,IT
+CR,Cremona,Italian (IT) provinces,IT
+CS,Cosenza,Italian (IT) provinces,IT
+CT,Catania,Italian (IT) provinces,IT
+CZ,Catanzaro,Italian (IT) provinces,IT
+EN,Enna,Italian (IT) provinces,IT
+FC,Forlì-Cesena,Italian (IT) provinces,IT
+FE,Ferrara,Italian (IT) provinces,IT
+FG,Foggia,Italian (IT) provinces,IT
+FI,Firenze,Italian (IT) provinces,IT
+FM,Fermo,Italian (IT) provinces,IT
+FR,Frosinone,Italian (IT) provinces,IT
+GE,Genova,Italian (IT) provinces,IT
+GO,Gorizia,Italian (IT) provinces,IT
+GR,Grosseto,Italian (IT) provinces,IT
+IM,Imperia,Italian (IT) provinces,IT
+IS,Isernia,Italian (IT) provinces,IT
+KR,Crotone,Italian (IT) provinces,IT
+LC,Lecco,Italian (IT) provinces,IT
+LE,Lecce,Italian (IT) provinces,IT
+LI,Livorno,Italian (IT) provinces,IT
+LO,Lodi,Italian (IT) provinces,IT
+LT,Latina,Italian (IT) provinces,IT
+LU,Lucca,Italian (IT) provinces,IT
+MB,Monza e della Brianza,Italian (IT) provinces,IT
+MC,Macerata,Italian (IT) provinces,IT
+ME,Messina,Italian (IT) provinces,IT
+MI,Milano,Italian (IT) provinces,IT
+MN,Mantova,Italian (IT) provinces,IT
+MO,Modena,Italian (IT) provinces,IT
+MS,Massa-Carrara,Italian (IT) provinces,IT
+MT,Matera,Italian (IT) provinces,IT
+NA,Napoli,Italian (IT) provinces,IT
+NO,Novara,Italian (IT) provinces,IT
+NU,Nuoro,Italian (IT) provinces,IT
+OR,Oristano,Italian (IT) provinces,IT
+PA,Palermo,Italian (IT) provinces,IT
+PC,Piacenza,Italian (IT) provinces,IT
+PD,Padova,Italian (IT) provinces,IT
+PE,Pescara,Italian (IT) provinces,IT
+PG,Perugia,Italian (IT) provinces,IT
+PI,Pisa Pistoia,Italian (IT) provinces,IT
+Pistoia,Pistoia,Italian (IT) provinces,IT
+PN,Pordenone,Italian (IT) provinces,IT
+PO,Prato,Italian (IT) provinces,IT
+PR,Parma,Italian (IT) provinces,IT
+PU,Pesaro e Urbino,Italian (IT) provinces,IT
+PV,Pavia,Italian (IT) provinces,IT
+PZ,Potenza,Italian (IT) provinces,IT
+RA,Ravenna,Italian (IT) provinces,IT
+RC,Reggio Calabria,Italian (IT) provinces,IT
+RE,Reggio Emilia,Italian (IT) provinces,IT
+RG,Ragusa,Italian (IT) provinces,IT
+RI,Rieti,Italian (IT) provinces,IT
+RM,Roma,Italian (IT) provinces,IT
+RN,Rimini,Italian (IT) provinces,IT
+RO,Rovigo,Italian (IT) provinces,IT
+SA,Salerno,Italian (IT) provinces,IT
+SI,Siena,Italian (IT) provinces,IT
+SO,Sondrio,Italian (IT) provinces,IT
+SP,La Spezia,Italian (IT) provinces,IT
+SR,Siracusa,Italian (IT) provinces,IT
+SS,Sassari,Italian (IT) provinces,IT
+SU,Sud Sardegna,Italian (IT) provinces,IT
+SV,Savona,Italian (IT) provinces,IT
+TA,Taranto,Italian (IT) provinces,IT
+TE,Teramo,Italian (IT) provinces,IT
+TN,Trento,Italian (IT) provinces,IT
+TO,Torino,Italian (IT) provinces,IT
+TP,Trapani,Italian (IT) provinces,IT
+TR,Terni,Italian (IT) provinces,IT
+TS,Trieste,Italian (IT) provinces,IT
+TV,Treviso,Italian (IT) provinces,IT
+UD,Udine,Italian (IT) provinces,IT
+VA,Varese,Italian (IT) provinces,IT
+VB,Verbano-Cusio-Ossola,Italian (IT) provinces,IT
+VC,Vercelli,Italian (IT) provinces,IT
+VE,Venezia,Italian (IT) provinces,IT
+VI,Vicenza,Italian (IT) provinces,IT
+VR,Verona,Italian (IT) provinces,IT
+VT,Viterbo,Italian (IT) provinces,IT
+VV,Vibo Valentia,Italian (IT) provinces,IT
+JM-01,Kingston,Jamaican (JM) parishes,JM
+JM-02,Saint Andrew,Jamaican (JM) parishes,JM
+JM-03,Saint Thomas,Jamaican (JM) parishes,JM
+JM-04,Portland,Jamaican (JM) parishes,JM
+JM-05,Saint Mary,Jamaican (JM) parishes,JM
+JM-06,Saint Ann,Jamaican (JM) parishes,JM
+JM-07,Trelawny,Jamaican (JM) parishes,JM
+JM-08,Saint James,Jamaican (JM) parishes,JM
+JM-09,Hanover,Jamaican (JM) parishes,JM
+JM-10,Westmoreland,Jamaican (JM) parishes,JM
+JM-11,Saint Elizabeth,Jamaican (JM) parishes,JM
+JM-12,Manchester,Jamaican (JM) parishes,JM
+JM-13,Clarendon,Jamaican (JM) parishes,JM
+JM-14,Saint Catherine,Jamaican (JM) parishes,JM
+JP01,Hokkaido,Japanese (JP) states,JP
+JP02,Aomori,Japanese (JP) states,JP
+JP03,Iwate,Japanese (JP) states,JP
+JP04,Miyagi,Japanese (JP) states,JP
+JP05,Akita,Japanese (JP) states,JP
+JP06,Yamagata,Japanese (JP) states,JP
+JP07,Fukushima,Japanese (JP) states,JP
+JP08,Ibaraki,Japanese (JP) states,JP
+JP09,Tochigi,Japanese (JP) states,JP
+JP10,Gunma,Japanese (JP) states,JP
+JP11,Saitama,Japanese (JP) states,JP
+JP12,Chiba,Japanese (JP) states,JP
+JP13,Tokyo,Japanese (JP) states,JP
+JP14,Kanagawa,Japanese (JP) states,JP
+JP15,Niigata,Japanese (JP) states,JP
+JP16,Toyama,Japanese (JP) states,JP
+JP17,Ishikawa,Japanese (JP) states,JP
+JP18,Fukui,Japanese (JP) states,JP
+JP19,Yamanashi,Japanese (JP) states,JP
+JP20,Nagano,Japanese (JP) states,JP
+JP21,Gifu,Japanese (JP) states,JP
+JP22,Shizuoka,Japanese (JP) states,JP
+JP23,Aichi,Japanese (JP) states,JP
+JP24,Mie,Japanese (JP) states,JP
+JP25,Shiga,Japanese (JP) states,JP
+JP26,Kyoto,Japanese (JP) states,JP
+JP27,Osaka,Japanese (JP) states,JP
+JP28,Hyogo,Japanese (JP) states,JP
+JP29,Nara,Japanese (JP) states,JP
+JP30,Wakayama,Japanese (JP) states,JP
+JP31,Tottori,Japanese (JP) states,JP
+JP32,Shimane,Japanese (JP) states,JP
+JP33,Okayama,Japanese (JP) states,JP
+JP34,Hiroshima,Japanese (JP) states,JP
+JP35,Yamaguchi,Japanese (JP) states,JP
+JP36,Tokushima,Japanese (JP) states,JP
+JP37,Kagawa,Japanese (JP) states,JP
+JP38,Ehime,Japanese (JP) states,JP
+JP39,Kochi,Japanese (JP) states,JP
+JP40,Fukuoka,Japanese (JP) states,JP
+JP41,Saga,Japanese (JP) states,JP
+JP42,Nagasaki,Japanese (JP) states,JP
+JP43,Kumamoto,Japanese (JP) states,JP
+JP44,Oita,Japanese (JP) states,JP
+JP45,Miyazaki,Japanese (JP) states,JP
+JP46,Kagoshima,Japanese (JP) states,JP
+JP47,Okinawa,Japanese (JP) states,JP
+KE01,Baringo,Kenyan (KE) counties,KE
+KE02,Bomet,Kenyan (KE) counties,KE
+KE03,Bungoma,Kenyan (KE) counties,KE
+KE04,Busia,Kenyan (KE) counties,KE
+KE05,Elgeyo-Marakwet,Kenyan (KE) counties,KE
+KE06,Embu,Kenyan (KE) counties,KE
+KE07,Garissa,Kenyan (KE) counties,KE
+KE08,Homa Bay,Kenyan (KE) counties,KE
+KE09,Isiolo,Kenyan (KE) counties,KE
+KE10,Kajiado,Kenyan (KE) counties,KE
+KE11,Kakamega,Kenyan (KE) counties,KE
+KE12,Kericho,Kenyan (KE) counties,KE
+KE13,Kiambu,Kenyan (KE) counties,KE
+KE14,Kilifi,Kenyan (KE) counties,KE
+KE15,Kirinyaga,Kenyan (KE) counties,KE
+KE16,Kisii,Kenyan (KE) counties,KE
+KE17,Kisumu,Kenyan (KE) counties,KE
+KE18,Kitui,Kenyan (KE) counties,KE
+KE19,Kwale,Kenyan (KE) counties,KE
+KE20,Laikipia,Kenyan (KE) counties,KE
+KE21,Lamu,Kenyan (KE) counties,KE
+KE22,Machakos,Kenyan (KE) counties,KE
+KE23,Makueni,Kenyan (KE) counties,KE
+KE24,Mandera,Kenyan (KE) counties,KE
+KE25,Marsabit,Kenyan (KE) counties,KE
+KE26,Meru,Kenyan (KE) counties,KE
+KE27,Migori,Kenyan (KE) counties,KE
+KE28,Mombasa,Kenyan (KE) counties,KE
+KE29,Murang’a,Kenyan (KE) counties,KE
+KE30,Nairobi County,Kenyan (KE) counties,KE
+KE31,Nakuru,Kenyan (KE) counties,KE
+KE32,Nandi,Kenyan (KE) counties,KE
+KE33,Narok,Kenyan (KE) counties,KE
+KE34,Nyamira,Kenyan (KE) counties,KE
+KE35,Nyandarua,Kenyan (KE) counties,KE
+KE36,Nyeri,Kenyan (KE) counties,KE
+KE37,Samburu,Kenyan (KE) counties,KE
+KE38,Siaya,Kenyan (KE) counties,KE
+KE39,Taita-Taveta,Kenyan (KE) counties,KE
+KE40,Tana River,Kenyan (KE) counties,KE
+KE41,Tharaka-Nithi,Kenyan (KE) counties,KE
+KE42,Trans Nzoia,Kenyan (KE) counties,KE
+KE43,Turkana,Kenyan (KE) counties,KE
+KE44,Uasin Gishu,Kenyan (KE) counties,KE
+KE45,Vihiga,Kenyan (KE) counties,KE
+KE46,Wajir,Kenyan (KE) counties,KE
+KE47,West Pokot,Kenyan (KE) counties,KE
+AT,Attapeu,Laotian (LA) provinces,LA
+BK,Bokeo,Laotian (LA) provinces,LA
+BL,Bolikhamsai,Laotian (LA) provinces,LA
+CH,Champasak,Laotian (LA) provinces,LA
+HO,Houaphanh,Laotian (LA) provinces,LA
+KH,Khammouane,Laotian (LA) provinces,LA
+LM,Luang Namtha,Laotian (LA) provinces,LA
+LP,Luang Prabang,Laotian (LA) provinces,LA
+OU,Oudomxay,Laotian (LA) provinces,LA
+PH,Phongsaly,Laotian (LA) provinces,LA
+SL,Salavan,Laotian (LA) provinces,LA
+SV,Savannakhet,Laotian (LA) provinces,LA
+VI,Vientiane Province,Laotian (LA) provinces,LA
+VT,Vientiane,Laotian (LA) provinces,LA
+XA,Sainyabuli,Laotian (LA) provinces,LA
+XE,Sekong,Laotian (LA) provinces,LA
+XI,Xiangkhouang,Laotian (LA) provinces,LA
+XS,Xaisomboun,Laotian (LA) provinces,LA
+BM,Bomi,Liberian (LR) provinces,LR
+BN,Bong,Liberian (LR) provinces,LR
+GA,Gbarpolu,Liberian (LR) provinces,LR
+GB,Grand Bassa,Liberian (LR) provinces,LR
+GC,Grand Cape Mount,Liberian (LR) provinces,LR
+GG,Grand Gedeh,Liberian (LR) provinces,LR
+GK,Grand Kru,Liberian (LR) provinces,LR
+LO,Lofa,Liberian (LR) provinces,LR
+MA,Margibi,Liberian (LR) provinces,LR
+MO,Montserrado,Liberian (LR) provinces,LR
+MY,Maryland,Liberian (LR) provinces,LR
+NM,Nimba,Liberian (LR) provinces,LR
+RG,River Gee,Liberian (LR) provinces,LR
+RV,Rivercess,Liberian (LR) provinces,LR
+SN,Sinoe,Liberian (LR) provinces,LR
+JHR,Johor,Malaysian (MY) states,MY
+KDH,Kedah,Malaysian (MY) states,MY
+KTN,Kelantan,Malaysian (MY) states,MY
+KUL,Kuala Lumpur,Malaysian (MY) states,MY
+LBN,Labuan,Malaysian (MY) states,MY
+MLK,Malacca (Melaka),Malaysian (MY) states,MY
+NSN,Negeri Sembilan,Malaysian (MY) states,MY
+PHG,Pahang,Malaysian (MY) states,MY
+PJY,Putrajaya,Malaysian (MY) states,MY
+PLS,Perlis,Malaysian (MY) states,MY
+PNG,Penang (Pulau Pinang),Malaysian (MY) states,MY
+PRK,Perak,Malaysian (MY) states,MY
+SBH,Sabah,Malaysian (MY) states,MY
+SGR,Selangor,Malaysian (MY) states,MY
+SWK,Sarawak,Malaysian (MY) states,MY
+TRG,Terengganu,Malaysian (MY) states,MY
+AG,Aguascalientes,Mexican (MX) states,MX
+BC,Baja California,Mexican (MX) states,MX
+BS,Baja California Sur,Mexican (MX) states,MX
+CH,Chihuahua,Mexican (MX) states,MX
+CL,Colima,Mexican (MX) states,MX
+CM,Campeche,Mexican (MX) states,MX
+CO,Coahuila,Mexican (MX) states,MX
+CS,Chiapas,Mexican (MX) states,MX
+DF,Ciudad de México,Mexican (MX) states,MX
+DG,Durango,Mexican (MX) states,MX
+GR,Guerrero,Mexican (MX) states,MX
+GT,Guanajuato,Mexican (MX) states,MX
+HG,Hidalgo,Mexican (MX) states,MX
+JA,Jalisco,Mexican (MX) states,MX
+MI,Michoacán,Mexican (MX) states,MX
+MO,Morelos,Mexican (MX) states,MX
+MX,Estado de México,Mexican (MX) states,MX
+NA,Nayarit,Mexican (MX) states,MX
+NL,Nuevo León,Mexican (MX) states,MX
+OA,Oaxaca,Mexican (MX) states,MX
+PU,Puebla,Mexican (MX) states,MX
+QR,Quintana Roo,Mexican (MX) states,MX
+QT,Querétaro,Mexican (MX) states,MX
+SI,Sinaloa,Mexican (MX) states,MX
+SL,San Luis Potosí,Mexican (MX) states,MX
+SO,Sonora,Mexican (MX) states,MX
+TB,Tabasco,Mexican (MX) states,MX
+TL,Tlaxcala,Mexican (MX) states,MX
+TM,Tamaulipas,Mexican (MX) states,MX
+VE,Veracruz,Mexican (MX) states,MX
+YU,Yucatán,Mexican (MX) states,MX
+ZA,Zacatecas,Mexican (MX) states,MX
+AN,Anenii Noi,Moldovan (MD) states,MD
+BL,Bălți,Moldovan (MD) states,MD
+BR,Briceni,Moldovan (MD) states,MD
+BS,Basarabeasca,Moldovan (MD) states,MD
+C,Chișinău,Moldovan (MD) states,MD
+CH,Cahul,Moldovan (MD) states,MD
+CL,Călărași,Moldovan (MD) states,MD
+CM,Cimișlia,Moldovan (MD) states,MD
+CR,Criuleni,Moldovan (MD) states,MD
+CS,Căușeni,Moldovan (MD) states,MD
+CT,Cantemir,Moldovan (MD) states,MD
+DB,Dubăsari,Moldovan (MD) states,MD
+DN,Dondușeni,Moldovan (MD) states,MD
+DR,Drochia,Moldovan (MD) states,MD
+ED,Edineț,Moldovan (MD) states,MD
+FL,Fălești,Moldovan (MD) states,MD
+FR,Florești,Moldovan (MD) states,MD
+GE,UTA Găgăuzia,Moldovan (MD) states,MD
+GL,Glodeni,Moldovan (MD) states,MD
+HN,Hîncești,Moldovan (MD) states,MD
+IL,Ialoveni,Moldovan (MD) states,MD
+TL,Telenești,Moldovan (MD) states,MD
+UN,Ungheni,Moldovan (MD) states,MD
+MZA,Niassa,Mozambican (MZ) provinces,MZ
+MZB,Manica,Mozambican (MZ) provinces,MZ
+MZG,Gaza,Mozambican (MZ) provinces,MZ
+MZI,Inhambane,Mozambican (MZ) provinces,MZ
+MZL,Maputo Province,Mozambican (MZ) provinces,MZ
+MZMPM,Maputo,Mozambican (MZ) provinces,MZ
+MZN,Nampula,Mozambican (MZ) provinces,MZ
+MZP,Cabo Delgado,Mozambican (MZ) provinces,MZ
+MZQ,Zambézia,Mozambican (MZ) provinces,MZ
+MZS,Sofala,Mozambican (MZ) provinces,MZ
+MZT,Tete,Mozambican (MZ) provinces,MZ
+CA,Zambezi,Namibian (NA) regions,NA
+ER,Erongo,Namibian (NA) regions,NA
+HA,Hardap,Namibian (NA) regions,NA
+KA,Karas,Namibian (NA) regions,NA
+KE,Kavango East,Namibian (NA) regions,NA
+KH,Khomas,Namibian (NA) regions,NA
+KU,Kunene,Namibian (NA) regions,NA
+KW,Kavango West,Namibian (NA) regions,NA
+OD,Otjozondjupa,Namibian (NA) regions,NA
+OH,Omaheke,Namibian (NA) regions,NA
+ON,Oshana,Namibian (NA) regions,NA
+OS,Omusati,Namibian (NA) regions,NA
+OT,Oshikoto,Namibian (NA) regions,NA
+OW,Ohangwena,Namibian (NA) regions,NA
+BAG,Bagmati,Nepalese (NP) zones,NP
+BHE,Bheri,Nepalese (NP) zones,NP
+DHA,Dhaulagiri,Nepalese (NP) zones,NP
+GAN,Gandaki,Nepalese (NP) zones,NP
+JAN,Janakpur,Nepalese (NP) zones,NP
+KAR,Karnali,Nepalese (NP) zones,NP
+KOS,Koshi,Nepalese (NP) zones,NP
+LUM,Lumbini,Nepalese (NP) zones,NP
+MAH,Mahakali,Nepalese (NP) zones,NP
+MEC,Mechi,Nepalese (NP) zones,NP
+NAR,Narayani,Nepalese (NP) zones,NP
+RAP,Rapti,Nepalese (NP) zones,NP
+SAG,Sagarmatha,Nepalese (NP) zones,NP
+SET,Seti,Nepalese (NP) zones,NP
+AK,Auckland,New Zealand (NZ) states,NZ
+BP,Bay of Plenty,New Zealand (NZ) states,NZ
+CT,Canterbury,New Zealand (NZ) states,NZ
+GI,Gisborne,New Zealand (NZ) states,NZ
+HB,Hawke’s Bay,New Zealand (NZ) states,NZ
+MB,Marlborough,New Zealand (NZ) states,NZ
+MW,Manawatu-Wanganui,New Zealand (NZ) states,NZ
+NL,Northland,New Zealand (NZ) states,NZ
+NS,Nelson,New Zealand (NZ) states,NZ
+OT,Otago,New Zealand (NZ) states,NZ
+SL,Southland,New Zealand (NZ) states,NZ
+TK,Taranaki,New Zealand (NZ) states,NZ
+TM,Tasman,New Zealand (NZ) states,NZ
+WA,Waikato,New Zealand (NZ) states,NZ
+WC,West Coast,New Zealand (NZ) states,NZ
+WE,Wellington,New Zealand (NZ) states,NZ
+NI-AN,Atlántico Norte,Nicaraguan (NI) states,NI
+NI-AS,Atlántico Sur,Nicaraguan (NI) states,NI
+NI-BO,Boaco,Nicaraguan (NI) states,NI
+NI-CA,Carazo,Nicaraguan (NI) states,NI
+NI-CI,Chinandega,Nicaraguan (NI) states,NI
+NI-CO,Chontales,Nicaraguan (NI) states,NI
+NI-ES,Estelí,Nicaraguan (NI) states,NI
+NI-GR,Granada,Nicaraguan (NI) states,NI
+NI-JI,Jinotega,Nicaraguan (NI) states,NI
+NI-LE,León,Nicaraguan (NI) states,NI
+NI-MD,Madriz,Nicaraguan (NI) states,NI
+NI-MN,Managua,Nicaraguan (NI) states,NI
+NI-MS,Masaya,Nicaraguan (NI) states,NI
+NI-MT,Matagalpa,Nicaraguan (NI) states,NI
+NI-NS,Nueva Segovia,Nicaraguan (NI) states,NI
+NI-RI,Rivas,Nicaraguan (NI) states,NI
+NI-SJ,Río San Juan,Nicaraguan (NI) states,NI
+AB,Abia,Nigerian (NG) provinces,NG
+AD,Adamawa,Nigerian (NG) provinces,NG
+AK,Akwa Ibom,Nigerian (NG) provinces,NG
+AN,Anambra,Nigerian (NG) provinces,NG
+BA,Bauchi,Nigerian (NG) provinces,NG
+BE,Benue,Nigerian (NG) provinces,NG
+BO,Borno,Nigerian (NG) provinces,NG
+BY,Bayelsa,Nigerian (NG) provinces,NG
+CR,Cross River,Nigerian (NG) provinces,NG
+DE,Delta,Nigerian (NG) provinces,NG
+EB,Ebonyi,Nigerian (NG) provinces,NG
+ED,Edo,Nigerian (NG) provinces,NG
+EK,Ekiti,Nigerian (NG) provinces,NG
+EN,Enugu,Nigerian (NG) provinces,NG
+FC,Abuja,Nigerian (NG) provinces,NG
+GO,Gombe,Nigerian (NG) provinces,NG
+IM,Imo,Nigerian (NG) provinces,NG
+JI,Jigawa,Nigerian (NG) provinces,NG
+KD,Kaduna,Nigerian (NG) provinces,NG
+KE,Kebbi,Nigerian (NG) provinces,NG
+KN,Kano,Nigerian (NG) provinces,NG
+KO,Kogi,Nigerian (NG) provinces,NG
+KT,Katsina,Nigerian (NG) provinces,NG
+KW,Kwara,Nigerian (NG) provinces,NG
+LA,Lagos,Nigerian (NG) provinces,NG
+NA,Nasarawa,Nigerian (NG) provinces,NG
+NI,Niger,Nigerian (NG) provinces,NG
+OG,Ogun,Nigerian (NG) provinces,NG
+ON,Ondo,Nigerian (NG) provinces,NG
+OS,Osun,Nigerian (NG) provinces,NG
+OY,Oyo,Nigerian (NG) provinces,NG
+PL,Plateau,Nigerian (NG) provinces,NG
+RI,Rivers,Nigerian (NG) provinces,NG
+SO,Sokoto,Nigerian (NG) provinces,NG
+TA,Taraba,Nigerian (NG) provinces,NG
+YO,Yobe,Nigerian (NG) provinces,NG
+ZA,Zamfara,Nigerian (NG) provinces,NG
+BA,Balochistan,Pakistani (PK) states,PK
+GB,Gilgit Baltistan,Pakistani (PK) states,PK
+IS,Islamabad Capital Territory,Pakistani (PK) states,PK
+JK,Azad Kashmir,Pakistani (PK) states,PK
+KP,Khyber Pakhtunkhwa,Pakistani (PK) states,PK
+PB,Punjab,Pakistani (PK) states,PK
+SD,Sindh,Pakistani (PK) states,PK
+TA,FATA,Pakistani (PK) states,PK
+PA-1,Bocas del Toro,Panamanian (PA) states,PA
+PA-10,West Panamá,Panamanian (PA) states,PA
+PA-2,Coclé,Panamanian (PA) states,PA
+PA-3,Colón,Panamanian (PA) states,PA
+PA-4,Chiriquí,Panamanian (PA) states,PA
+PA-5,Darién,Panamanian (PA) states,PA
+PA-6,Herrera,Panamanian (PA) states,PA
+PA-7,Los Santos,Panamanian (PA) states,PA
+PA-8,Panamá,Panamanian (PA) states,PA
+PA-9,Veraguas,Panamanian (PA) states,PA
+PA-EM,Emberá,Panamanian (PA) states,PA
+PA-KY,Guna Yala,Panamanian (PA) states,PA
+PA-NB,Ngöbe-Buglé,Panamanian (PA) states,PA
+PY-1,Concepción,Paraguayan (PY) states,PY
+PY-10,Alto Paraná,Paraguayan (PY) states,PY
+PY-11,Central,Paraguayan (PY) states,PY
+PY-12,Ñeembucú,Paraguayan (PY) states,PY
+PY-13,Amambay,Paraguayan (PY) states,PY
+PY-14,Canindeyú,Paraguayan (PY) states,PY
+PY-15,Presidente Hayes,Paraguayan (PY) states,PY
+PY-16,Alto Paraguay,Paraguayan (PY) states,PY
+PY-17,Boquerón,Paraguayan (PY) states,PY
+PY-2,San Pedro,Paraguayan (PY) states,PY
+PY-3,,Paraguayan (PY) states,PY
+PY-4,Guairá,Paraguayan (PY) states,PY
+PY-5,Caaguazú,Paraguayan (PY) states,PY
+PY-6,Caazapá,Paraguayan (PY) states,PY
+PY-7,Itapúa,Paraguayan (PY) states,PY
+PY-8,Misiones,Paraguayan (PY) states,PY
+PY-9,Paraguarí,Paraguayan (PY) states,PY
+PY-ASU,Asunción,Paraguayan (PY) states,PY
+AMA,Amazonas,Peruvian (PE) states,PE
+ANC,Ancash,Peruvian (PE) states,PE
+APU,Apurímac,Peruvian (PE) states,PE
+ARE,Arequipa,Peruvian (PE) states,PE
+AYA,Ayacucho,Peruvian (PE) states,PE
+CAJ,Cajamarca,Peruvian (PE) states,PE
+CAL,El Callao,Peruvian (PE) states,PE
+CUS,Cusco,Peruvian (PE) states,PE
+HUC,Huánuco,Peruvian (PE) states,PE
+HUV,Huancavelica,Peruvian (PE) states,PE
+ICA,Ica,Peruvian (PE) states,PE
+JUN,Junín,Peruvian (PE) states,PE
+LAL,La Libertad,Peruvian (PE) states,PE
+LAM,Lambayeque,Peruvian (PE) states,PE
+LIM,Lima,Peruvian (PE) states,PE
+LMA,Municipalidad Metropolitana de Lima,Peruvian (PE) states,PE
+LOR,Loreto,Peruvian (PE) states,PE
+MDD,Madre de Dios,Peruvian (PE) states,PE
+MOQ,Moquegua,Peruvian (PE) states,PE
+PAS,Pasco,Peruvian (PE) states,PE
+PIU,Piura,Peruvian (PE) states,PE
+PUN,Puno,Peruvian (PE) states,PE
+SAM,San Martín,Peruvian (PE) states,PE
+TAC,Tacna,Peruvian (PE) states,PE
+TUM,Tumbes,Peruvian (PE) states,PE
+UCA,Ucayali,Peruvian (PE) states,PE
+0,Metro Manila,Philippine (PH) provinces,PH
+ABR,Abra,Philippine (PH) provinces,PH
+AGN,Agusan del Norte,Philippine (PH) provinces,PH
+AGS,Agusan del Sur,Philippine (PH) provinces,PH
+AKL,Aklan,Philippine (PH) provinces,PH
+ALB,Albay,Philippine (PH) provinces,PH
+ANT,Antique,Philippine (PH) provinces,PH
+APA,Apayao,Philippine (PH) provinces,PH
+AUR,Aurora,Philippine (PH) provinces,PH
+BAN,Bataan,Philippine (PH) provinces,PH
+BAS,Basilan,Philippine (PH) provinces,PH
+BEN,Benguet,Philippine (PH) provinces,PH
+BIL,Biliran,Philippine (PH) provinces,PH
+BOH,Bohol,Philippine (PH) provinces,PH
+BTG,Batangas,Philippine (PH) provinces,PH
+BTN,Batanes,Philippine (PH) provinces,PH
+BUK,Bukidnon,Philippine (PH) provinces,PH
+BUL,Bulacan,Philippine (PH) provinces,PH
+CAG,Cagayan,Philippine (PH) provinces,PH
+CAM,Camiguin,Philippine (PH) provinces,PH
+CAN,Camarines Norte,Philippine (PH) provinces,PH
+CAP,Capiz,Philippine (PH) provinces,PH
+CAS,Camarines Sur,Philippine (PH) provinces,PH
+CAT,Catanduanes,Philippine (PH) provinces,PH
+CAV,Cavite,Philippine (PH) provinces,PH
+CEB,Cebu,Philippine (PH) provinces,PH
+COM,Compostela Valley,Philippine (PH) provinces,PH
+DAC,Davao Occidental,Philippine (PH) provinces,PH
+DAO,Davao Oriental,Philippine (PH) provinces,PH
+DAS,Davao del Sur,Philippine (PH) provinces,PH
+DAV,Davao del Norte,Philippine (PH) provinces,PH
+DIN,Dinagat Islands,Philippine (PH) provinces,PH
+EAS,Eastern Samar,Philippine (PH) provinces,PH
+GUI,Guimaras,Philippine (PH) provinces,PH
+IFU,Ifugao,Philippine (PH) provinces,PH
+ILI,Iloilo,Philippine (PH) provinces,PH
+ILN,Ilocos Norte,Philippine (PH) provinces,PH
+ILS,Ilocos Sur,Philippine (PH) provinces,PH
+ISA,Isabela,Philippine (PH) provinces,PH
+KAL,Kalinga,Philippine (PH) provinces,PH
+LAG,Laguna,Philippine (PH) provinces,PH
+LAN,Lanao del Norte,Philippine (PH) provinces,PH
+LAS,Lanao del Sur,Philippine (PH) provinces,PH
+LEY,Leyte,Philippine (PH) provinces,PH
+LUN,La Union,Philippine (PH) provinces,PH
+MAD,Marinduque,Philippine (PH) provinces,PH
+MAG,Maguindanao,Philippine (PH) provinces,PH
+MAS,Masbate,Philippine (PH) provinces,PH
+MDC,Occidental Mindoro,Philippine (PH) provinces,PH
+MDR,Oriental Mindoro,Philippine (PH) provinces,PH
+MOU,Mountain Province,Philippine (PH) provinces,PH
+MSC,Misamis Occidental,Philippine (PH) provinces,PH
+MSR,Misamis Oriental,Philippine (PH) provinces,PH
+NCO,Cotabato,Philippine (PH) provinces,PH
+NEC,Negros Occidental,Philippine (PH) provinces,PH
+NER,Negros Oriental,Philippine (PH) provinces,PH
+NSA,Northern Samar,Philippine (PH) provinces,PH
+NUE,Nueva Ecija,Philippine (PH) provinces,PH
+NUV,Nueva Vizcaya,Philippine (PH) provinces,PH
+PAM,Pampanga,Philippine (PH) provinces,PH
+PAN,Pangasinan,Philippine (PH) provinces,PH
+PLW,Palawan,Philippine (PH) provinces,PH
+QUE,Quezon,Philippine (PH) provinces,PH
+QUI,Quirino,Philippine (PH) provinces,PH
+RIZ,Rizal,Philippine (PH) provinces,PH
+ROM,Romblon,Philippine (PH) provinces,PH
+SAR,Sarangani,Philippine (PH) provinces,PH
+SCO,South Cotabato,Philippine (PH) provinces,PH
+SIQ,Siquijor,Philippine (PH) provinces,PH
+SLE,Southern Leyte,Philippine (PH) provinces,PH
+SLU,Sulu,Philippine (PH) provinces,PH
+SOR,Sorsogon,Philippine (PH) provinces,PH
+SUK,Sultan Kudarat,Philippine (PH) provinces,PH
+SUN,Surigao del Norte,Philippine (PH) provinces,PH
+SUR,Surigao del Sur,Philippine (PH) provinces,PH
+TAR,Tarlac,Philippine (PH) provinces,PH
+TAW,Tawi-Tawi,Philippine (PH) provinces,PH
+WSA,Samar,Philippine (PH) provinces,PH
+ZAN,Zamboanga del Norte,Philippine (PH) provinces,PH
+ZAS,Zamboanga del Sur,Philippine (PH) provinces,PH
+ZMB,Zambales,Philippine (PH) provinces,PH
+ZSI,Zamboanga Sibugay,Philippine (PH) provinces,PH
+AB,Alba,Romanian (RO) states,RO
+AG,Argeș,Romanian (RO) states,RO
+AR,Arad,Romanian (RO) states,RO
+B,București,Romanian (RO) states,RO
+BC,Bacău,Romanian (RO) states,RO
+BH,Bihor,Romanian (RO) states,RO
+BN,Bistrița-Năsăud,Romanian (RO) states,RO
+BR,Brăila,Romanian (RO) states,RO
+BT,Botoșani,Romanian (RO) states,RO
+BV,Brașov,Romanian (RO) states,RO
+BZ,Buzău,Romanian (RO) states,RO
+CJ,Cluj,Romanian (RO) states,RO
+CL,Călărași,Romanian (RO) states,RO
+CS,Caraș-Severin,Romanian (RO) states,RO
+CT,Constanța,Romanian (RO) states,RO
+CV,Covasna,Romanian (RO) states,RO
+DB,Dâmbovița,Romanian (RO) states,RO
+DJ,Dolj,Romanian (RO) states,RO
+GJ,Gorj,Romanian (RO) states,RO
+GL,Galați,Romanian (RO) states,RO
+GR,Giurgiu,Romanian (RO) states,RO
+HD,Hunedoara,Romanian (RO) states,RO
+HR,Harghita,Romanian (RO) states,RO
+IF,Ilfov,Romanian (RO) states,RO
+IL,Ialomița,Romanian (RO) states,RO
+IS,Iași,Romanian (RO) states,RO
+MH,Mehedinți,Romanian (RO) states,RO
+MM,Maramureș,Romanian (RO) states,RO
+MS,Mureș,Romanian (RO) states,RO
+NT,Neamț,Romanian (RO) states,RO
+OT,Olt,Romanian (RO) states,RO
+PH,Prahova,Romanian (RO) states,RO
+SB,Sibiu,Romanian (RO) states,RO
+SJ,Sălaj,Romanian (RO) states,RO
+SM,Satu Mare,Romanian (RO) states,RO
+SV,Suceava,Romanian (RO) states,RO
+TL,Tulcea,Romanian (RO) states,RO
+TM,Timiș,Romanian (RO) states,RO
+TR,Teleorman,Romanian (RO) states,RO
+VL,Vâlcea,Romanian (RO) states,RO
+VN,Vrancea,Romanian (RO) states,RO
+VS,Vaslui,Romanian (RO) states,RO
+SV-AH,Ahuachapán,Salvadoran (SV) states,SV
+SV-CA,Cabañas,Salvadoran (SV) states,SV
+SV-CH,Chalatenango,Salvadoran (SV) states,SV
+SV-CU,Cuscatlán,Salvadoran (SV) states,SV
+SV-LI,La Libertad,Salvadoran (SV) states,SV
+SV-MO,Morazán,Salvadoran (SV) states,SV
+SV-PA,La Paz,Salvadoran (SV) states,SV
+SV-SA,Santa Ana,Salvadoran (SV) states,SV
+SV-SM,San Miguel,Salvadoran (SV) states,SV
+SV-SO,Sonsonate,Salvadoran (SV) states,SV
+SV-SS,San Salvador,Salvadoran (SV) states,SV
+SV-SV,San Vicente,Salvadoran (SV) states,SV
+SV-UN,La Unión,Salvadoran (SV) states,SV
+SV-US,Usulután,Salvadoran (SV) states,SV
+RS00,Belgrade,Serbian (RS) districts,RS
+RS01,North Bačka,Serbian (RS) districts,RS
+RS02,Central Banat,Serbian (RS) districts,RS
+RS03,North Banat,Serbian (RS) districts,RS
+RS04,South Banat,Serbian (RS) districts,RS
+RS05,West Bačka,Serbian (RS) districts,RS
+RS06,South Bačka,Serbian (RS) districts,RS
+RS07,Srem,Serbian (RS) districts,RS
+RS08,Mačva,Serbian (RS) districts,RS
+RS09,Kolubara,Serbian (RS) districts,RS
+RS10,Danube,Serbian (RS) districts,RS
+RS11,Braničevo,Serbian (RS) districts,RS
+RS12,Šumadija,Serbian (RS) districts,RS
+RS13,Pomoravlje,Serbian (RS) districts,RS
+RS14,Bor,Serbian (RS) districts,RS
+RS15,Zaječar,Serbian (RS) districts,RS
+RS16,Zlatibor,Serbian (RS) districts,RS
+RS17,Morava,Serbian (RS) districts,RS
+RS18,Raška,Serbian (RS) districts,RS
+RS19,Rasina,Serbian (RS) districts,RS
+RS20,Nišava,Serbian (RS) districts,RS
+RS21,Toplica,Serbian (RS) districts,RS
+RS22,Pirot,Serbian (RS) districts,RS
+RS23,Jablanica,Serbian (RS) districts,RS
+RS24,Pčinja,Serbian (RS) districts,RS
+RS25,Kosovo,Serbian (RS) districts,RS
+RS26,Peć,Serbian (RS) districts,RS
+RS27,Prizren,Serbian (RS) districts,RS
+RS28,Kosovska Mitrovica,Serbian (RS) districts,RS
+RS29,Kosovo-Pomoravlje,Serbian (RS) districts,RS
+RSKM,Kosovo-Metohija,Serbian (RS) districts,RS
+RSVO,Vojvodina,Serbian (RS) districts,RS
+A,Alicante,Spanish (ES) states,ES
+AB,Albacete,Spanish (ES) states,ES
+AL,Almería,Spanish (ES) states,ES
+AV,Ávila,Spanish (ES) states,ES
+B,Barcelona,Spanish (ES) states,ES
+BA,Badajoz,Spanish (ES) states,ES
+BI,Biscay,Spanish (ES) states,ES
+BU,Burgos,Spanish (ES) states,ES
+C,A Coruña,Spanish (ES) states,ES
+CA,Cádiz,Spanish (ES) states,ES
+CC,Cáceres,Spanish (ES) states,ES
+CE,Ceuta,Spanish (ES) states,ES
+CO,Córdoba,Spanish (ES) states,ES
+CR,Ciudad Real,Spanish (ES) states,ES
+CS,Castellón,Spanish (ES) states,ES
+CU,Cuenca,Spanish (ES) states,ES
+GC,Las Palmas,Spanish (ES) states,ES
+GI,Girona,Spanish (ES) states,ES
+GR,Granada,Spanish (ES) states,ES
+GU,Guadalajara,Spanish (ES) states,ES
+H,Huelva,Spanish (ES) states,ES
+HU,Huesca,Spanish (ES) states,ES
+J,Jaén,Spanish (ES) states,ES
+L,Lleida,Spanish (ES) states,ES
+LE,León,Spanish (ES) states,ES
+LO,La Rioja,Spanish (ES) states,ES
+LU,Lugo,Spanish (ES) states,ES
+M,Madrid,Spanish (ES) states,ES
+MA,Málaga,Spanish (ES) states,ES
+ML,Melilla,Spanish (ES) states,ES
+MU,Murcia,Spanish (ES) states,ES
+NA,Navarra,Spanish (ES) states,ES
+O,Asturias,Spanish (ES) states,ES
+OR,Ourense,Spanish (ES) states,ES
+P,Palencia,Spanish (ES) states,ES
+PM,Baleares,Spanish (ES) states,ES
+PO,Pontevedra,Spanish (ES) states,ES
+S,Cantabria,Spanish (ES) states,ES
+SA,Salamanca,Spanish (ES) states,ES
+SE,Sevilla,Spanish (ES) states,ES
+SG,Segovia,Spanish (ES) states,ES
+SO,Soria,Spanish (ES) states,ES
+SS,Gipuzkoa,Spanish (ES) states,ES
+T,Tarragona,Spanish (ES) states,ES
+TE,Teruel,Spanish (ES) states,ES
+TF,Santa Cruz de Tenerife,Spanish (ES) states,ES
+TO,Toledo,Spanish (ES) states,ES
+V,Valencia,Spanish (ES) states,ES
+VA,Valladolid,Spanish (ES) states,ES
+VI,Araba/Álava,Spanish (ES) states,ES
+Z,Zaragoza,Spanish (ES) states,ES
+ZA,Zamora,Spanish (ES) states,ES
+AG,Aargau,Swiss (CH) cantons,CH
+AI,Appenzell Innerrhoden,Swiss (CH) cantons,CH
+AR,Appenzell Ausserrhoden,Swiss (CH) cantons,CH
+BE,Bern,Swiss (CH) cantons,CH
+BL,Basel-Landschaft,Swiss (CH) cantons,CH
+BS,Basel-Stadt,Swiss (CH) cantons,CH
+FR,Fribourg,Swiss (CH) cantons,CH
+GE,Geneva,Swiss (CH) cantons,CH
+GL,Glarus,Swiss (CH) cantons,CH
+GR,Graubünden,Swiss (CH) cantons,CH
+JU,Jura,Swiss (CH) cantons,CH
+LU,Luzern,Swiss (CH) cantons,CH
+NE,Neuchâtel,Swiss (CH) cantons,CH
+NW,Nidwalden,Swiss (CH) cantons,CH
+OW,Obwalden,Swiss (CH) cantons,CH
+SG,St. Gallen,Swiss (CH) cantons,CH
+SH,Schaffhausen,Swiss (CH) cantons,CH
+SO,Solothurn,Swiss (CH) cantons,CH
+SZ,Schwyz,Swiss (CH) cantons,CH
+TG,Thurgau,Swiss (CH) cantons,CH
+TI,Ticino,Swiss (CH) cantons,CH
+UR,Uri,Swiss (CH) cantons,CH
+VD,Vaud,Swiss (CH) cantons,CH
+VS,Valais,Swiss (CH) cantons,CH
+ZG,Zug,Swiss (CH) cantons,CH
+ZH,Zürich,Swiss (CH) cantons,CH
+TZ01,Arusha,Tanzanian (TZ) states,TZ
+TZ02,Dar es Salaam,Tanzanian (TZ) states,TZ
+TZ03,Dodoma,Tanzanian (TZ) states,TZ
+TZ04,Iringa,Tanzanian (TZ) states,TZ
+TZ05,Kagera,Tanzanian (TZ) states,TZ
+TZ06,Pemba North,Tanzanian (TZ) states,TZ
+TZ07,Zanzibar North,Tanzanian (TZ) states,TZ
+TZ08,Kigoma,Tanzanian (TZ) states,TZ
+TZ09,Kilimanjaro,Tanzanian (TZ) states,TZ
+TZ10,Pemba South,Tanzanian (TZ) states,TZ
+TZ11,Zanzibar South,Tanzanian (TZ) states,TZ
+TZ12,Lindi,Tanzanian (TZ) states,TZ
+TZ13,Mara,Tanzanian (TZ) states,TZ
+TZ14,Mbeya,Tanzanian (TZ) states,TZ
+TZ15,Zanzibar West,Tanzanian (TZ) states,TZ
+TZ16,Morogoro,Tanzanian (TZ) states,TZ
+TZ17,Mtwara,Tanzanian (TZ) states,TZ
+TZ18,Mwanza,Tanzanian (TZ) states,TZ
+TZ19,Coast,Tanzanian (TZ) states,TZ
+TZ20,Rukwa,Tanzanian (TZ) states,TZ
+TZ21,Ruvuma,Tanzanian (TZ) states,TZ
+TZ22,Shinyanga,Tanzanian (TZ) states,TZ
+TZ23,Singida,Tanzanian (TZ) states,TZ
+TZ24,Tabora,Tanzanian (TZ) states,TZ
+TZ25,Tanga,Tanzanian (TZ) states,TZ
+TZ26,Manyara,Tanzanian (TZ) states,TZ
+TZ27,Geita,Tanzanian (TZ) states,TZ
+TZ28,Katavi,Tanzanian (TZ) states,TZ
+TZ29,Njombe,Tanzanian (TZ) states,TZ
+TZ30,Simiyu,Tanzanian (TZ) states,TZ
+TH-10,Bangkok,Thai (TH) states,TH
+TH-11,Samut Prakan,Thai (TH) states,TH
+TH-12,Nonthaburi,Thai (TH) states,TH
+TH-13,Pathum Thani,Thai (TH) states,TH
+TH-14,Ayutthaya,Thai (TH) states,TH
+TH-15,Ang Thong,Thai (TH) states,TH
+TH-16,Lopburi,Thai (TH) states,TH
+TH-17,Sing Buri,Thai (TH) states,TH
+TH-18,Chai Nat,Thai (TH) states,TH
+TH-19,Saraburi,Thai (TH) states,TH
+TH-20,Chonburi,Thai (TH) states,TH
+TH-21,Rayong,Thai (TH) states,TH
+TH-22,Chanthaburi,Thai (TH) states,TH
+TH-23,Trat,Thai (TH) states,TH
+TH-24,Chachoengsao,Thai (TH) states,TH
+TH-25,Prachin Buri,Thai (TH) states,TH
+TH-26,Nakhon Nayok,Thai (TH) states,TH
+TH-27,Sa Kaeo,Thai (TH) states,TH
+TH-30,Nakhon Ratchasima,Thai (TH) states,TH
+TH-31,Buri Ram,Thai (TH) states,TH
+TH-32,Surin,Thai (TH) states,TH
+TH-33,Sisaket,Thai (TH) states,TH
+TH-34,Ubon Ratchathani,Thai (TH) states,TH
+TH-35,Yasothon,Thai (TH) states,TH
+TH-36,Chaiyaphum,Thai (TH) states,TH
+TH-37,Amnat Charoen,Thai (TH) states,TH
+TH-38,Bueng Kan,Thai (TH) states,TH
+TH-39,Nong Bua Lam Phu,Thai (TH) states,TH
+TH-40,Khon Kaen,Thai (TH) states,TH
+TH-41,Udon Thani,Thai (TH) states,TH
+TH-42,Loei,Thai (TH) states,TH
+TH-43,Nong Khai,Thai (TH) states,TH
+TH-44,Maha Sarakham,Thai (TH) states,TH
+TH-45,Roi Et,Thai (TH) states,TH
+TH-46,Kalasin,Thai (TH) states,TH
+TH-47,Sakon Nakhon,Thai (TH) states,TH
+TH-48,Nakhon Phanom,Thai (TH) states,TH
+TH-49,Mukdahan,Thai (TH) states,TH
+TH-50,Chiang Mai,Thai (TH) states,TH
+TH-51,Lamphun,Thai (TH) states,TH
+TH-52,Lampang,Thai (TH) states,TH
+TH-53,Uttaradit,Thai (TH) states,TH
+TH-54,Phrae,Thai (TH) states,TH
+TH-55,Nan,Thai (TH) states,TH
+TH-56,Phayao,Thai (TH) states,TH
+TH-57,Chiang Rai,Thai (TH) states,TH
+TH-58,Mae Hong Son,Thai (TH) states,TH
+TH-60,Nakhon Sawan,Thai (TH) states,TH
+TH-61,Uthai Thani,Thai (TH) states,TH
+TH-62,Kamphaeng Phet,Thai (TH) states,TH
+TH-63,Tak,Thai (TH) states,TH
+TH-64,Sukhothai,Thai (TH) states,TH
+TH-65,Phitsanulok,Thai (TH) states,TH
+TH-66,Phichit,Thai (TH) states,TH
+TH-67,Phetchabun,Thai (TH) states,TH
+TH-70,Ratchaburi,Thai (TH) states,TH
+TH-71,Kanchanaburi,Thai (TH) states,TH
+TH-72,Suphan Buri,Thai (TH) states,TH
+TH-73,Nakhon Pathom,Thai (TH) states,TH
+TH-74,Samut Sakhon,Thai (TH) states,TH
+TH-75,Samut Songkhram,Thai (TH) states,TH
+TH-76,Phetchaburi,Thai (TH) states,TH
+TH-77,Prachuap Khiri Khan,Thai (TH) states,TH
+TH-80,Nakhon Si Thammarat,Thai (TH) states,TH
+TH-81,Krabi,Thai (TH) states,TH
+TH-82,Phang Nga,Thai (TH) states,TH
+TH-83,Phuket,Thai (TH) states,TH
+TH-84,Surat Thani,Thai (TH) states,TH
+TH-85,Ranong,Thai (TH) states,TH
+TH-86,Chumphon,Thai (TH) states,TH
+TH-90,Songkhla,Thai (TH) states,TH
+TH-91,Satun,Thai (TH) states,TH
+TH-92,Trang,Thai (TH) states,TH
+TH-93,Phatthalung,Thai (TH) states,TH
+TH-94,Pattani,Thai (TH) states,TH
+TH-95,Yala,Thai (TH) states,TH
+TH-96,Narathiwat,Thai (TH) states,TH
+TR01,Adana,Turkish (TR) states,TR
+TR02,Adıyaman,Turkish (TR) states,TR
+TR03,Afyon,Turkish (TR) states,TR
+TR04,Ağrı,Turkish (TR) states,TR
+TR05,Amasya,Turkish (TR) states,TR
+TR06,Ankara,Turkish (TR) states,TR
+TR07,Antalya,Turkish (TR) states,TR
+TR08,Artvin,Turkish (TR) states,TR
+TR09,Aydın,Turkish (TR) states,TR
+TR10,Balıkesir,Turkish (TR) states,TR
+TR11,Bilecik,Turkish (TR) states,TR
+TR12,Bingöl,Turkish (TR) states,TR
+TR13,Bitlis,Turkish (TR) states,TR
+TR14,Bolu,Turkish (TR) states,TR
+TR15,Burdur,Turkish (TR) states,TR
+TR16,Bursa,Turkish (TR) states,TR
+TR17,Çanakkale,Turkish (TR) states,TR
+TR18,Çankırı,Turkish (TR) states,TR
+TR19,Çorum,Turkish (TR) states,TR
+TR20,Denizli,Turkish (TR) states,TR
+TR21,Diyarbakır,Turkish (TR) states,TR
+TR22,Edirne,Turkish (TR) states,TR
+TR23,Elazığ,Turkish (TR) states,TR
+TR24,Erzincan,Turkish (TR) states,TR
+TR25,Erzurum,Turkish (TR) states,TR
+TR26,Eskişehir,Turkish (TR) states,TR
+TR27,Gaziantep,Turkish (TR) states,TR
+TR28,Giresun,Turkish (TR) states,TR
+TR29,Gümüşhane,Turkish (TR) states,TR
+TR30,Hakkari,Turkish (TR) states,TR
+TR31,Hatay,Turkish (TR) states,TR
+TR32,Isparta,Turkish (TR) states,TR
+TR33,İçel,Turkish (TR) states,TR
+TR34,İstanbul,Turkish (TR) states,TR
+TR35,İzmir,Turkish (TR) states,TR
+TR36,Kars,Turkish (TR) states,TR
+TR37,Kastamonu,Turkish (TR) states,TR
+TR38,Kayseri,Turkish (TR) states,TR
+TR39,Kırklareli,Turkish (TR) states,TR
+TR40,Kırşehir,Turkish (TR) states,TR
+TR41,Kocaeli,Turkish (TR) states,TR
+TR42,Konya,Turkish (TR) states,TR
+TR43,Kütahya,Turkish (TR) states,TR
+TR44,Malatya,Turkish (TR) states,TR
+TR45,Manisa,Turkish (TR) states,TR
+TR46,Kahramanmaraş,Turkish (TR) states,TR
+TR47,Mardin,Turkish (TR) states,TR
+TR48,Muğla,Turkish (TR) states,TR
+TR49,Muş,Turkish (TR) states,TR
+TR50,Nevşehir,Turkish (TR) states,TR
+TR51,Niğde,Turkish (TR) states,TR
+TR52,Ordu,Turkish (TR) states,TR
+TR53,Rize,Turkish (TR) states,TR
+TR54,Sakarya,Turkish (TR) states,TR
+TR55,Samsun,Turkish (TR) states,TR
+TR56,Siirt,Turkish (TR) states,TR
+TR57,Sinop,Turkish (TR) states,TR
+TR58,Sivas,Turkish (TR) states,TR
+TR59,Tekirdağ,Turkish (TR) states,TR
+TR60,Tokat,Turkish (TR) states,TR
+TR61,Trabzon,Turkish (TR) states,TR
+TR62,Tunceli,Turkish (TR) states,TR
+TR63,Şanlıurfa,Turkish (TR) states,TR
+TR64,Uşak,Turkish (TR) states,TR
+TR65,Van,Turkish (TR) states,TR
+TR66,Yozgat,Turkish (TR) states,TR
+TR67,Zonguldak,Turkish (TR) states,TR
+TR68,Aksaray,Turkish (TR) states,TR
+TR69,Bayburt,Turkish (TR) states,TR
+TR70,Karaman,Turkish (TR) states,TR
+TR71,Kırıkkale,Turkish (TR) states,TR
+TR72,Batman,Turkish (TR) states,TR
+TR73,Şırnak,Turkish (TR) states,TR
+TR74,Bartın,Turkish (TR) states,TR
+TR75,Ardahan,Turkish (TR) states,TR
+TR76,Iğdır,Turkish (TR) states,TR
+TR77,Yalova,Turkish (TR) states,TR
+TR78,Karabük,Turkish (TR) states,TR
+TR79,Kilis,Turkish (TR) states,TR
+TR80,Osmaniye,Turkish (TR) states,TR
+TR81,Düzce,Turkish (TR) states,TR
+UG101,Kalangala,Ugandan (UG) districts,UG
+UG102,Kampala,Ugandan (UG) districts,UG
+UG103,Kiboga,Ugandan (UG) districts,UG
+UG104,Luwero,Ugandan (UG) districts,UG
+UG105,Masaka,Ugandan (UG) districts,UG
+UG106,Mpigi,Ugandan (UG) districts,UG
+UG107,Mubende,Ugandan (UG) districts,UG
+UG108,Mukono,Ugandan (UG) districts,UG
+UG109,Nakasongola,Ugandan (UG) districts,UG
+UG110,Rakai,Ugandan (UG) districts,UG
+UG111,Sembabule,Ugandan (UG) districts,UG
+UG112,Kayunga,Ugandan (UG) districts,UG
+UG113,Wakiso,Ugandan (UG) districts,UG
+UG114,Lyantonde,Ugandan (UG) districts,UG
+UG115,Mityana,Ugandan (UG) districts,UG
+UG116,Nakaseke,Ugandan (UG) districts,UG
+UG117,Buikwe,Ugandan (UG) districts,UG
+UG118,Bukomansimbi,Ugandan (UG) districts,UG
+UG119,Butambala,Ugandan (UG) districts,UG
+UG120,Buvuma,Ugandan (UG) districts,UG
+UG121,Gomba,Ugandan (UG) districts,UG
+UG122,Kalungu,Ugandan (UG) districts,UG
+UG123,Kyankwanzi,Ugandan (UG) districts,UG
+UG124,Lwengo,Ugandan (UG) districts,UG
+UG125,Kyotera,Ugandan (UG) districts,UG
+UG126,Kasanda,Ugandan (UG) districts,UG
+UG201,Bugiri,Ugandan (UG) districts,UG
+UG202,Busia,Ugandan (UG) districts,UG
+UG203,Iganga,Ugandan (UG) districts,UG
+UG204,Jinja,Ugandan (UG) districts,UG
+UG205,Kamuli,Ugandan (UG) districts,UG
+UG206,Kapchorwa,Ugandan (UG) districts,UG
+UG207,Katakwi,Ugandan (UG) districts,UG
+UG208,Kumi,Ugandan (UG) districts,UG
+UG209,Mbale,Ugandan (UG) districts,UG
+UG210,Pallisa,Ugandan (UG) districts,UG
+UG211,Soroti,Ugandan (UG) districts,UG
+UG212,Tororo,Ugandan (UG) districts,UG
+UG213,Kaberamaido,Ugandan (UG) districts,UG
+UG214,Mayuge,Ugandan (UG) districts,UG
+UG215,Sironko,Ugandan (UG) districts,UG
+UG216,Amuria,Ugandan (UG) districts,UG
+UG217,Budaka,Ugandan (UG) districts,UG
+UG218,Bududa,Ugandan (UG) districts,UG
+UG219,Bukedea,Ugandan (UG) districts,UG
+UG220,Bukwa,Ugandan (UG) districts,UG
+UG221,Butaleja,Ugandan (UG) districts,UG
+UG222,Kaliro,Ugandan (UG) districts,UG
+UG223,Manafwa,Ugandan (UG) districts,UG
+UG224,Namutumba,Ugandan (UG) districts,UG
+UG225,Bulambuli,Ugandan (UG) districts,UG
+UG226,Buyende,Ugandan (UG) districts,UG
+UG227,Kibuku,Ugandan (UG) districts,UG
+UG228,Kween,Ugandan (UG) districts,UG
+UG229,Luuka,Ugandan (UG) districts,UG
+UG230,Namayingo,Ugandan (UG) districts,UG
+UG231,Ngora,Ugandan (UG) districts,UG
+UG232,Serere,Ugandan (UG) districts,UG
+UG233,Butebo,Ugandan (UG) districts,UG
+UG234,Namisindwa,Ugandan (UG) districts,UG
+UG235,Bugweri,Ugandan (UG) districts,UG
+UG236,Kapelebyong,Ugandan (UG) districts,UG
+UG301,Adjumani,Ugandan (UG) districts,UG
+UG302,Apac,Ugandan (UG) districts,UG
+UG303,Arua,Ugandan (UG) districts,UG
+UG304,Gulu,Ugandan (UG) districts,UG
+UG305,Kitgum,Ugandan (UG) districts,UG
+UG306,Kotido,Ugandan (UG) districts,UG
+UG307,Lira,Ugandan (UG) districts,UG
+UG308,Moroto,Ugandan (UG) districts,UG
+UG309,Moyo,Ugandan (UG) districts,UG
+UG310,Nebbi,Ugandan (UG) districts,UG
+UG311,Nakapiripirit,Ugandan (UG) districts,UG
+UG312,Pader,Ugandan (UG) districts,UG
+UG313,Yumbe,Ugandan (UG) districts,UG
+UG314,Abim,Ugandan (UG) districts,UG
+UG315,Amolatar,Ugandan (UG) districts,UG
+UG316,Amuru,Ugandan (UG) districts,UG
+UG317,Dokolo,Ugandan (UG) districts,UG
+UG318,Kaabong,Ugandan (UG) districts,UG
+UG319,Koboko,Ugandan (UG) districts,UG
+UG320,Maracha,Ugandan (UG) districts,UG
+UG321,Oyam,Ugandan (UG) districts,UG
+UG322,Agago,Ugandan (UG) districts,UG
+UG323,Alebtong,Ugandan (UG) districts,UG
+UG324,Amudat,Ugandan (UG) districts,UG
+UG325,Kole,Ugandan (UG) districts,UG
+UG326,Lamwo,Ugandan (UG) districts,UG
+UG327,Napak,Ugandan (UG) districts,UG
+UG328,Nwoya,Ugandan (UG) districts,UG
+UG329,Otuke,Ugandan (UG) districts,UG
+UG330,Zombo,Ugandan (UG) districts,UG
+UG331,Omoro,Ugandan (UG) districts,UG
+UG332,Pakwach,Ugandan (UG) districts,UG
+UG333,Kwania,Ugandan (UG) districts,UG
+UG334,Nabilatuk,Ugandan (UG) districts,UG
+UG401,Bundibugyo,Ugandan (UG) districts,UG
+UG402,Bushenyi,Ugandan (UG) districts,UG
+UG403,Hoima,Ugandan (UG) districts,UG
+UG404,Kabale,Ugandan (UG) districts,UG
+UG405,Kabarole,Ugandan (UG) districts,UG
+UG406,Kasese,Ugandan (UG) districts,UG
+UG407,Kibaale,Ugandan (UG) districts,UG
+UG408,Kisoro,Ugandan (UG) districts,UG
+UG409,Masindi,Ugandan (UG) districts,UG
+UG410,Mbarara,Ugandan (UG) districts,UG
+UG411,Ntungamo,Ugandan (UG) districts,UG
+UG412,Rukungiri,Ugandan (UG) districts,UG
+UG413,Kamwenge,Ugandan (UG) districts,UG
+UG414,Kanungu,Ugandan (UG) districts,UG
+UG415,Kyenjojo,Ugandan (UG) districts,UG
+UG416,Buliisa,Ugandan (UG) districts,UG
+UG417,Ibanda,Ugandan (UG) districts,UG
+UG418,Isingiro,Ugandan (UG) districts,UG
+UG419,Kiruhura,Ugandan (UG) districts,UG
+UG420,Buhweju,Ugandan (UG) districts,UG
+UG421,Kiryandongo,Ugandan (UG) districts,UG
+UG422,Kyegegwa,Ugandan (UG) districts,UG
+UG423,Mitooma,Ugandan (UG) districts,UG
+UG424,Ntoroko,Ugandan (UG) districts,UG
+UG425,Rubirizi,Ugandan (UG) districts,UG
+UG426,Sheema,Ugandan (UG) districts,UG
+UG427,Kagadi,Ugandan (UG) districts,UG
+UG428,Kakumiro,Ugandan (UG) districts,UG
+UG429,Rubanda,Ugandan (UG) districts,UG
+UG430,Bunyangabu,Ugandan (UG) districts,UG
+UG431,Rukiga,Ugandan (UG) districts,UG
+UG432,Kikuube,Ugandan (UG) districts,UG
+CH,Chernihiv Oblast,Ukrainian (UA) oblasts,UA
+CK,Cherkasy Oblast,Ukrainian (UA) oblasts,UA
+CV,Chernivtsi Oblast,Ukrainian (UA) oblasts,UA
+DP,Dnipropetrovsk Oblast,Ukrainian (UA) oblasts,UA
+DT,Donetsk Oblast,Ukrainian (UA) oblasts,UA
+IF,Ivano-Frankivsk Oblast,Ukrainian (UA) oblasts,UA
+KH,Kirovohrad Oblast,Ukrainian (UA) oblasts,UA
+KK,Kharkiv Oblast,Ukrainian (UA) oblasts,UA
+KM,Khmelnytskyi Oblast,Ukrainian (UA) oblasts,UA
+KS,Kherson Oblast,Ukrainian (UA) oblasts,UA
+KV,Kyiv Oblast,Ukrainian (UA) oblasts,UA
+LH,Luhansk Oblast,Ukrainian (UA) oblasts,UA
+LV,Lviv Oblast,Ukrainian (UA) oblasts,UA
+MY,Mykolaiv Oblast,Ukrainian (UA) oblasts,UA
+OD,Odessa Oblast,Ukrainian (UA) oblasts,UA
+PL,Poltava Oblast,Ukrainian (UA) oblasts,UA
+RV,Rivne Oblast,Ukrainian (UA) oblasts,UA
+SM,Sumy Oblast,Ukrainian (UA) oblasts,UA
+TP,Ternopil Oblast,Ukrainian (UA) oblasts,UA
+VL,Volyn Oblast,Ukrainian (UA) oblasts,UA
+VN,Vinnytsia Oblast,Ukrainian (UA) oblasts,UA
+ZK,Zakarpattia Oblast,Ukrainian (UA) oblasts,UA
+ZP,Zaporizhzhia Oblast,Ukrainian (UA) oblasts,UA
+ZT,Zhytomyr Oblast,Ukrainian (UA) oblasts,UA
+AA,Armed Forces (AA),United States (US) states,US
+AE,Armed Forces (AE),United States (US) states,US
+AK,Alaska,United States (US) states,US
+AL,Alabama,United States (US) states,US
+AP,Armed Forces (AP),United States (US) states,US
+AR,Arkansas,United States (US) states,US
+AZ,Arizona,United States (US) states,US
+CA,California,United States (US) states,US
+CO,Colorado,United States (US) states,US
+CT,Connecticut,United States (US) states,US
+DC,District Of Columbia,United States (US) states,US
+DE,Delaware,United States (US) states,US
+FL,Florida,United States (US) states,US
+GA,Georgia,United States (US) states,US
+HI,Hawaii,United States (US) states,US
+IA,Iowa,United States (US) states,US
+ID,Idaho,United States (US) states,US
+IL,Illinois,United States (US) states,US
+IN,Indiana,United States (US) states,US
+KS,Kansas,United States (US) states,US
+KY,Kentucky,United States (US) states,US
+LA,Louisiana,United States (US) states,US
+MA,Massachusetts,United States (US) states,US
+MD,Maryland,United States (US) states,US
+ME,Maine,United States (US) states,US
+MI,Michigan,United States (US) states,US
+MN,Minnesota,United States (US) states,US
+MO,Missouri,United States (US) states,US
+MS,Mississippi,United States (US) states,US
+MT,Montana,United States (US) states,US
+NC,North Carolina,United States (US) states,US
+ND,North Dakota,United States (US) states,US
+NE,Nebraska,United States (US) states,US
+NH,New Hampshire,United States (US) states,US
+NJ,New Jersey,United States (US) states,US
+NM,New Mexico,United States (US) states,US
+NV,Nevada,United States (US) states,US
+NY,New York,United States (US) states,US
+OH,Ohio,United States (US) states,US
+OK,Oklahoma,United States (US) states,US
+OR,Oregon,United States (US) states,US
+PA,Pennsylvania,United States (US) states,US
+RI,Rhode Island,United States (US) states,US
+SC,South Carolina,United States (US) states,US
+SD,South Dakota,United States (US) states,US
+TN,Tennessee,United States (US) states,US
+TX,Texas,United States (US) states,US
+UT,Utah,United States (US) states,US
+VA,Virginia,United States (US) states,US
+VT,Vermont,United States (US) states,US
+WA,Washington,United States (US) states,US
+WI,Wisconsin,United States (US) states,US
+WV,West Virginia,United States (US) states,US
+WY,Wyoming,United States (US) states,US
+67,Johnston Atoll,United States Minor (UM) Outlying Islands,UM
+71,Midway Atoll,United States Minor (UM) Outlying Islands,UM
+76,Navassa Island,United States Minor (UM) Outlying Islands,UM
+79,Wake Island,United States Minor (UM) Outlying Islands,UM
+81,Baker Island,United States Minor (UM) Outlying Islands,UM
+84,Howland Island,United States Minor (UM) Outlying Islands,UM
+86,Jarvis Island,United States Minor (UM) Outlying Islands,UM
+89,Kingman Reef,United States Minor (UM) Outlying Islands,UM
+95,Palmyra Atoll,United States Minor (UM) Outlying Islands,UM
+UY-AR,Artigas,Uruguayan (UY) states,UY
+UY-CA,Canelones,Uruguayan (UY) states,UY
+UY-CL,Cerro Largo,Uruguayan (UY) states,UY
+UY-CO,Colonia,Uruguayan (UY) states,UY
+UY-DU,Durazno,Uruguayan (UY) states,UY
+UY-FD,Florida,Uruguayan (UY) states,UY
+UY-FS,Flores,Uruguayan (UY) states,UY
+UY-LA,Lavalleja,Uruguayan (UY) states,UY
+UY-MA,Maldonado,Uruguayan (UY) states,UY
+UY-MO,Montevideo,Uruguayan (UY) states,UY
+UY-PA,Paysandú,Uruguayan (UY) states,UY
+UY-RN,Río Negro,Uruguayan (UY) states,UY
+UY-RO,Rocha,Uruguayan (UY) states,UY
+UY-RV,Rivera,Uruguayan (UY) states,UY
+UY-SA,Salto,Uruguayan (UY) states,UY
+UY-SJ,San José,Uruguayan (UY) states,UY
+UY-SO,Soriano,Uruguayan (UY) states,UY
+UY-TA,Tacuarembó,Uruguayan (UY) states,UY
+UY-TT,Treinta y Tres,Uruguayan (UY) states,UY
